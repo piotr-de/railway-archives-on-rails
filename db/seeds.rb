@@ -11,4 +11,6 @@ puts "Creating classes"
 new_class = ClassCode.new(name: "ET22", category: "Locomotive", power: "Electric")
 if new_class.save
 	puts "Class #{new_class.name} created"
+else
+	puts "Class #{new_class.name} skipped"
 end
