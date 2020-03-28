@@ -5,3 +5,10 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+puts "Creating classes"
+
+new_class = ClassCode.new(name: "ET22", category: "Locomotive", power: "Electric")
+if new_class.save
+	puts "Class #{new_class.name} created"
+end

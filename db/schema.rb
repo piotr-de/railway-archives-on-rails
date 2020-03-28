@@ -17,7 +17,7 @@ ActiveRecord::Schema.define(version: 2020_03_28_214904) do
 
   create_table "class_codes", force: :cascade do |t|
     t.string "name"
-    t.string "type"
+    t.string "category"
     t.string "power"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
