@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_03_29_135511) do
+ActiveRecord::Schema.define(version: 2020_03_29_144209) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -29,6 +29,7 @@ ActiveRecord::Schema.define(version: 2020_03_29_135511) do
     t.bigint "class_code_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.string "country"
     t.index ["class_code_id"], name: "index_units_on_class_code_id"
   end
 
