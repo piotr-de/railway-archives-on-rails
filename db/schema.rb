@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_03_29_144209) do
+ActiveRecord::Schema.define(version: 2020_03_29_144701) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -23,6 +23,15 @@ ActiveRecord::Schema.define(version: 2020_03_29_144209) do
     t.datetime "updated_at", precision: 6, null: false
   end
 
+  create_table "encounters", force: :cascade do |t|
+    t.date "date"
+    t.text "description"
+    t.bigint "unit_id", null: false
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["unit_id"], name: "index_encounters_on_unit_id"
+  end
+
   create_table "units", force: :cascade do |t|
     t.string "serial_no"
     t.string "operator"
@@ -33,5 +42,6 @@ ActiveRecord::Schema.define(version: 2020_03_29_144209) do
     t.index ["class_code_id"], name: "index_units_on_class_code_id"
   end
 
+  add_foreign_key "encounters", "units"
   add_foreign_key "units", "class_codes"
 end
