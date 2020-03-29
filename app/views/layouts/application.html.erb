@@ -10,6 +10,24 @@
   </head>
 
   <body>
-    <%= yield %>
+
+    <table border="0" align="center" class="main" cellpadding="1" cellspacing="1">
+      <tr>
+        <td class="tdmain" style="background-color: #FFFF80;">
+          <%= link_to root_path do %>
+            <%= image_tag "logo" %>
+          <% end %>
+        </td>
+      </tr>
+
+        <%= yield %>
+
+      <tr>
+        <td class="tdmain" style="background-color: #ddeeff;">
+          &copy; 2002-2006 railway.eu.org
+        </td>
+      </tr>
+    </table>
+    
   </body>
 </html>
