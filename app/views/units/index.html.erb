@@ -1,6 +1,14 @@
 <tr>
 	<td class="tdmain" style="background-color: #0080c0;">
-		<a href="../index.php" class="menu">/Railways in Poland/</a><a href="gal.php" class="menu">Railway Gallery/</a><span class="header">test</span>
+		<%= link_to "Railways in Poland/", root_path, class: "menu" %>
+		<span class="header">
+			<% if params[:country].present? %>
+				<%= link_to "Railway Gallery/", units_path, class: "menu" %>
+				<%= params[:country] %>
+			<% else %>
+				Railway Gallery
+			<% end %>
+		</span>
 	</td>
 </tr>
 <tr>
@@ -41,7 +49,7 @@
 		</td>
 		<td class="tdmainlocos" style="width: 33%;">
 		<a href="?id=et21-pkp">ET21</a>&nbsp;<span class="small">['.file_counter('et21-pkp').']</span><br>
-		<a href="?id=et22-pkp">ET22</a>&nbsp;<span class="small">['.file_counter('et22-pkp').']</span><br>
+		<a href="?id=et22-pkp">ET22</a>&nbsp;<span class="small">[<%= ClassCode.where(name: "ET22").count %>]</span><br>
 		<a href="?id=et40-pkp">ET40</a>&nbsp;<span class="small">['.file_counter('et40-pkp').']</span><br>
 		<a href="?id=et41-pkp">ET41</a>&nbsp;<span class="small">['.file_counter('et41-pkp').']</span><br>
 		<a href="?id=et42-pkp">ET42</a>&nbsp;<span class="small">['.file_counter('et42-pkp').']</span><br><br>
