@@ -18,12 +18,10 @@
 	</tr>
 	<tr>
 		<td class="tdmainlocos" style="text-align: left;" colspan="2">
-			<p>
-			<form method="GET" action="gal.php">
-			<input type="text" name="find" value="'.$find.'"><br>
-			<input type="submit" value="Search">
-			</form>
-			</p>
+			<%= form_tag units_path, method: :get do %>
+				<%= text_field_tag :query %>
+				<%= submit_tag "Search" %>
+			<% end %>
 		</td>
 	</tr>
 </table>

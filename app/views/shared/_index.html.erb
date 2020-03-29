@@ -11,17 +11,11 @@
 	</td>
 </tr>
 <tr>
-	<td class="tdmain" style="background-color: #ffff80;">
-		
+	<td class="tdmain" style="background-color: #ffff80; padding: 20px 0;">
 		<% if params[:country].present? %>
-
 			<%= render "shared/country_table" %>
-		
 		<% else %>
-		
 			<%= render "shared/countries_table" %>
-		
 		<% end %>
-
 	</td>
 </tr>	
