@@ -1,0 +1,27 @@
+<tr>
+	<td class="tdmain" style="background-color: #0080c0;">
+		<%= link_to "Railways in Poland/", root_path, class: "menu" %>
+		<span class="header">
+			<% if params[:country].present? %>
+				<%= params[:country].capitalize %>
+			<% else %>
+				Galleries
+			<% end %>
+		</span>
+	</td>
+</tr>
+<tr>
+	<td class="tdmain" style="background-color: #ffff80;">
+		
+		<% if params[:country].present? %>
+
+			<%= render "shared/country_table" %>
+		
+		<% else %>
+		
+			<%= render "shared/countries_table" %>
+		
+		<% end %>
+
+	</td>
+</tr>	
