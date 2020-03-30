@@ -110,35 +110,202 @@ A:link {
 	text-decoration: none;
 }
 
-A:active {font: normal 8pt Tahoma; color: #336699; text-decoration: none;}
-A:visited {font: normal 8pt Tahoma; color: #336699; text-decoration: none;}
-A:hover {font: normal 8pt Tahoma; color: #336699; text-decoration: underline;}
-A:link.menu {font: normal 8pt Tahoma; color: #ffff80; text-decoration: none;}
-A:active.menu {font: normal 8pt Tahoma; color: #ffff80; text-decoration: none;}
-A:visited.menu {font: normal 8pt Tahoma; color: #ffff80; text-decoration: none;}
-A:hover.menu {font: normal 8pt Tahoma; color: #ffff80; text-decoration: underline;}
-A:link.cmk {font: normal 8pt Tahoma; color: #ffff80; text-decoration: none;}
-A:active.cmk {font: normal 8pt Tahoma; color: #ffff80; text-decoration: none;}
-A:visited.cmk {font: normal 8pt Tahoma; color: #ffff80; text-decoration: none;}
-A:hover.cmk {font: normal 8pt Tahoma; color: #ffff80; text-decoration: underline;}
+A:active {
+	font: normal 8pt Tahoma;
+	color: #336699;
+	text-decoration: none;
+}
+
+A:visited {
+	font: normal 8pt Tahoma;
+	color: #336699;
+	text-decoration: none;
+}
+
+A:hover {
+	font: normal 8pt Tahoma;
+	color: #336699;
+	text-decoration: underline;
+}
+
+A:link.menu {
+	font: normal 8pt Tahoma;
+	color: #ffff80;
+	text-decoration: none;
+}
+
+A:active.menu {
+	font: normal 8pt Tahoma;
+	color: #ffff80;
+	text-decoration: none;
+}
+
+A:visited.menu {
+	font: normal 8pt Tahoma;
+	color: #ffff80;
+	text-decoration: none;
+}
+
+A:hover.menu {
+	font: normal 8pt Tahoma;
+	color: #ffff80;
+	text-decoration: underline;
+}
+
+A:link.cmk {
+	font: normal 8pt Tahoma;
+	color: #ffff80;
+	text-decoration: none;
+}
+
+A:active.cmk {
+	font: normal 8pt Tahoma;
+	color: #ffff80;
+	text-decoration: none;
+}
+
+A:visited.cmk {
+	font: normal 8pt Tahoma;
+	color: #ffff80;
+	text-decoration: none;
+}
+
+A:hover.cmk {
+	font: normal 8pt Tahoma;
+	color: #ffff80;
+	text-decoration: underline;
+}
+
 /*TABLES*/
-TABLE.main {background-color: black; width: 650px;}
-TD.tdmain {font: normal 8pt Tahoma; color: black; text-decoration: none; padding: 2pt; text-align: left; vertical-align: top;}
-TABLE.window {width: 95%; background-color: black;}
-TD.tdwindow {font: normal 8pt Tahoma; color: black; text-decoration: none; text-align: left; vertical-align: middle; padding: 2pt}
-TABLE.invisible {background-color: white; width: 100%;}
-TD.tdinvisible {font: normal 8pt Tahoma; color: black; text-decoration: none; width: 50%; padding: 0pt; text-align: center; vertical-align: top;}
-TABLE.locos, .form {background-color: #ffff80; width: 80%;}
-TD.tdlocos, .tdform {font: normal 8pt Tahoma; color: black; text-decoration: none; padding: 2pt; vertical-align: top; text-align: left;}
-TABLE.mainlocos {background-color: #336699; width: 90%;}
-TD.tdmainlocos {padding: 5pt; vertical-align: top; text-align: center; background-color: #ffff80;}
-TABLE.tabor {background-color: #336699; width: 85%;}
-TD.tdtabor {font: normal 8pt Tahoma; color: black; text-decoration: none; padding: 2pt; vertical-align: top; text-align: left; background-color: #ffff80;}
-TD.tdtabor2 {font: bold 8pt Tahoma; color: white; text-decoration: none; padding: 2pt; vertical-align: middle; text-align: center; background-color: #0080c0;}
-TABLE.links {background-color: #336699; width: 50%;}
-TABLE.cmk {background-color: #ffff80; width: 80%;}
-TD.cmk {font: normal 8pt Tahoma; color: black; text-decoration: none; padding: 2pt; vertical-align: top; text-align: left;}
+
+TABLE.main {
+	background-color: black;
+	width: 650px;
+}
+
+TD.tdmain {
+	font: normal 8pt Tahoma;
+	color: black;
+	text-decoration: none;
+	padding: 2pt;
+	text-align: left;
+	vertical-align: top;
+}
+
+TABLE.window {
+	width: 95%;
+	background-color: black;
+}
+
+TD.tdwindow {
+	font: normal 8pt Tahoma;
+	color: black;
+	text-decoration: none;
+	text-align: left;
+	vertical-align: middle;
+	padding: 2pt
+}
+
+TABLE.invisible {
+	background-color: white;
+	width: 100%;
+}
+
+TD.tdinvisible {
+	font: normal 8pt Tahoma;
+	color: black;
+	text-decoration: none;
+	width: 50%;
+	padding: 0pt;
+	text-align: center;
+	vertical-align: top;
+}
+
+TABLE.locos, .form {
+	background-color: #ffff80;
+	width: 80%;
+}
+
+TD.tdlocos, .tdform {
+	font: normal 8pt Tahoma;
+	color: black;
+	text-decoration: none;
+	padding: 2pt;
+	vertical-align: top;
+	text-align: left;
+}
+
+TABLE.mainlocos {
+	background-color: #336699;
+	width: 90%;
+}
+
+TD.tdmainlocos {
+	padding: 5pt;
+	vertical-align: top;
+	text-align: center;
+	background-color: #ffff80;
+}
+
+TABLE.tabor {
+	background-color: #336699;
+	width: 85%;
+}
+
+TD.tdtabor {
+	font: normal 8pt Tahoma;
+	color: black;
+	text-decoration: none;
+	padding: 2pt;
+	vertical-align: top;
+	text-align: left;
+	background-color: #ffff80;
+}
+
+TD.tdtabor2 {
+	font: bold 8pt Tahoma;
+	color: white;
+	text-decoration: none;
+	padding: 2pt;
+	vertical-align: middle;
+	text-align: center;
+	background-color: #0080c0;
+}
+
+TABLE.links {
+	background-color: #336699;
+	width: 50%;
+}
+
+TABLE.cmk {
+	background-color: #ffff80;
+	width: 80%;
+}
+
+TD.cmk {
+	font: normal 8pt Tahoma;
+	color: black;
+	text-decoration: none;
+	padding: 2pt;
+	vertical-align: top;
+	text-align: left;
+}
+
 /*FORMS*/
-INPUT {font: normal 8pt Tahoma; color: black;}
-SELECT {font: normal 8pt Tahoma; color: black; background-color: white;}
-TEXTAREA {font: normal 8pt Tahoma; color: black; background-color: white;}
+
+INPUT {
+	font: normal 8pt Tahoma;
+	color: black;
+}
+
+SELECT {
+	font: normal 8pt Tahoma;
+	color: black;
+	background-color: white;
+}
+
+TEXTAREA {
+	font: normal 8pt Tahoma;
+	color: black;
+	background-color: white;
+}
