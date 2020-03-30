@@ -15,14 +15,6 @@ ActiveRecord::Schema.define(version: 2020_03_29_144701) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
-  create_table "class_codes", force: :cascade do |t|
-    t.string "name"
-    t.string "category"
-    t.string "power"
-    t.datetime "created_at", precision: 6, null: false
-    t.datetime "updated_at", precision: 6, null: false
-  end
-
   create_table "encounters", force: :cascade do |t|
     t.date "date"
     t.text "description"
@@ -35,13 +27,10 @@ ActiveRecord::Schema.define(version: 2020_03_29_144701) do
   create_table "units", force: :cascade do |t|
     t.string "serial_no"
     t.string "operator"
-    t.bigint "class_code_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.string "country"
-    t.index ["class_code_id"], name: "index_units_on_class_code_id"
   end
 
   add_foreign_key "encounters", "units"
-  add_foreign_key "units", "class_codes"
 end
