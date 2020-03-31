@@ -21,7 +21,7 @@ path = Rails.root.join("static")
 puts "Accessing #{path}"
 
 Dir.foreach(path) do |dir|
-	next if dir.include?(".") || !dir.include?("-")
+	next unless dir.include?("-")
 	directories << dir
 end
 
@@ -44,3 +44,26 @@ new_classes.each do |new_class|
 		end
 	end
 end
+
+source_path = path.join("source")
+
+puts "Accessing source files in #{source_path}"
+
+encounters = {}
+
+Dir.foreach(source_path) do |source_file|
+	next unless source_file.include?("src.txt")
+	File.open(File.join(source_path, source_file), "r:iso-8859-1") do |file|
+		unit_class = source_file.split("-")[0]
+		file.each do |line|
+			next if line.include?("<!-")
+			split_line = line.split("#")
+			encounter = "#{unit_class}-#{split_line[0]}"
+			encounters[encounter] = line.split("#")[1].split("^")
+		end
+	end
+end
+
+# Unit.all.each do |unit|
+# 	new_encounter = Encounter.new()
+# end
