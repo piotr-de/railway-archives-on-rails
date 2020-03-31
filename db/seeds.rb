@@ -6,13 +6,13 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
-puts "Creating classes"
+puts "Instantiating classes"
 
 new_classes = [
 	{ name: "EM10", propulsion: "Electric", category: "Shunting Locomotive", country: "Poland", operator: "PKP" }
 ]
 
-puts "#{new_classes.count} classes created"
+puts "Total: #{new_classes.count}"
 
 directories = []
 
@@ -53,17 +53,32 @@ encounters = {}
 
 Dir.foreach(source_path) do |source_file|
 	next unless source_file.include?("src.txt")
-	File.open(File.join(source_path, source_file), "r:iso-8859-1") do |file|
+	IO.foreach(File.join(source_path, source_file), mode: "r:iso-8859-1") do |line|
 		unit_class = source_file.split("-")[0]
-		file.each do |line|
-			next if line.include?("<!-")
-			split_line = line.split("#")
-			encounter = "#{unit_class}-#{split_line[0]}"
-			encounters[encounter] = line.split("#")[1].split("^")
+		next if line.include?("<!-")
+		split_line = line.split("#")
+		encounter = "#{unit_class}-#{split_line[0]}"
+		encounters[encounter] = line.split("#")[1].split("^")
+	end
+end
+
+puts "Encounters to instantiate: #{encounters.count}"
+
+Unit.all.each do |unit|
+	file_id = unit.serial_no.downcase
+	while encounters.has_key?(file_id)
+		new_encounter = Encounter.new(date: encounters[file_id][0], description: encounters[file_id][1], unit_id: unit.id)
+		if new_encounter.save
+			puts "Saved: #{unit.serial_no}, #{new_encounter["date"]}, #{new_encounter["description"]}"
+		else
+			puts "Skipped: #{unit.serial_no}, #{new_encounter["date"]}, #{new_encounter["description"]}"
+		end
+		if file_id.split("-").length > 2
+			file_id = "#{file_id.split("-")[0]}-#{file_id.split("-")[1].to_i + 1}"
+		else
+			file_id += "-2"
 		end
 	end
 end
 
-# Unit.all.each do |unit|
-# 	new_encounter = Encounter.new()
-# end
+puts "#{Encounter.all.count} encounters saved"
