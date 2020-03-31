@@ -21,7 +21,7 @@ path = Rails.root.join("static")
 puts "Accessing #{path}"
 
 Dir.foreach(path) do |dir|
-	next if dir.include?(".")
+	next if dir.include?(".") || !dir.include?("-")
 	directories << dir
 end
 
@@ -32,7 +32,7 @@ new_classes.each do |new_class|
 	current_directory = "#{new_class[:name].downcase}-#{new_class[:operator].downcase}"
 	if directories.include?(current_directory)
 		Dir.foreach(File.join(path, current_directory)) do |file|
-			if file.include?(".jpg")
+			if file.include?(".jpg") && file.split("-").length == 1
 				new_class[:serial_no] = "#{new_class[:name]}#{separator}#{file.split(".")[0]}"
 				new_unit = Unit.new(new_class)
 				if new_unit.save
