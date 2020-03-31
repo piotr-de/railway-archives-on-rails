@@ -9,7 +9,35 @@
 puts "Instantiating classes"
 
 new_classes = [
-	{ name: "EM10", propulsion: "Electric", category: "Shunting Locomotive", country: "Poland", operator: "PKP" }
+	{ name: "EM10", propulsion: "Electric", category: "Shunting Locomotive", country: "Poland", operator: "PKP" },
+	{ name: "EM120", propulsion: "Diesel", category: "Motor Unit", country: "Poland", operator: "PKP" },
+	{ name: "EN56", propulsion: "Electric", category: "Motor Unit", country: "Poland", operator: "PKP" },
+	{ name: "EN56", propulsion: "Electric", category: "Motor Unit", country: "Poland", operator: "PKP" },
+	{ name: "EN57", propulsion: "Electric", category: "Motor Unit", country: "Poland", operator: "PKP" },
+	{ name: "EN57", propulsion: "Electric", category: "Motor Unit", country: "Poland", operator: "SKM" },
+	{ name: "EN71", propulsion: "Electric", category: "Motor Unit", country: "Poland", operator: "PKP" },
+	{ name: "EN71", propulsion: "Electric", category: "Motor Unit", country: "Poland", operator: "SKM" },
+	{ name: "EN80", propulsion: "Electric", category: "Motor Unit", country: "Poland", operator: "PKP" },
+	{ name: "EN94", propulsion: "Electric", category: "Motor Unit", country: "Poland", operator: "PKP" },
+	{ name: "EP02", propulsion: "Electric", category: "Passenger Locomotive", country: "Poland", operator: "PKP" },
+	{ name: "EP03", propulsion: "Electric", category: "Passenger Locomotive", country: "Poland", operator: "PKP" },
+	{ name: "EP05", propulsion: "Electric", category: "Passenger Locomotive", country: "Poland", operator: "PKP" },
+	{ name: "EP07", propulsion: "Electric", category: "Passenger Locomotive", country: "Poland", operator: "PKP" },
+	{ name: "EP08", propulsion: "Electric", category: "Passenger Locomotive", country: "Poland", operator: "PKP" },
+	{ name: "EP09", propulsion: "Electric", category: "Passenger Locomotive", country: "Poland", operator: "PKP" },
+	{ name: "ET21", propulsion: "Electric", category: "Freight Locomotive", country: "Poland", operator: "PKP" },
+	{ name: "ET22", propulsion: "Electric", category: "Freight Locomotive", country: "Poland", operator: "PKP" },
+	{ name: "ET40", propulsion: "Electric", category: "Freight Locomotive", country: "Poland", operator: "PKP" },
+	{ name: "ET41", propulsion: "Electric", category: "Freight Locomotive", country: "Poland", operator: "PKP" },
+	{ name: "ET42", propulsion: "Electric", category: "Freight Locomotive", country: "Poland", operator: "PKP" },
+	{ name: "EU06", propulsion: "Electric", category: "Universal Locomotive", country: "Poland", operator: "PKP" },
+	{ name: "EU07", propulsion: "Electric", category: "Universal Locomotive", country: "Poland", operator: "PKP" },
+	{ name: "EU20", propulsion: "Electric", category: "Universal Locomotive", country: "Poland", operator: "PKP" },
+	{ name: "EW51", propulsion: "Electric", category: "Motor Unit", country: "Poland", operator: "PKP" },
+	{ name: "EW58", propulsion: "Electric", category: "Motor Unit", country: "Poland", operator: "PKP" },
+	{ name: "EW60", propulsion: "Electric", category: "Motor Unit", country: "Poland", operator: "PKP" },
+	{ name: "Ok1", propulsion: "Electric", category: "Locomotive", country: "Poland", operator: "PKP" },
+	{ name: "Ol49", propulsion: "Electric", category: "Locomotive", country: "Poland", operator: "PKP" },
 ]
 
 puts "Total: #{new_classes.count}"
@@ -73,8 +101,9 @@ Unit.all.each do |unit|
 		else
 			puts "Skipped: #{unit.serial_no}, #{new_encounter["date"]}, #{new_encounter["description"]}"
 		end
-		if file_id.split("-").length > 2
-			file_id = "#{file_id.split("-")[0]}-#{file_id.split("-")[1].to_i + 1}"
+			file_split = file_id.split("-")
+		if file_split.length > 2
+			file_id = "#{file_split[0]}-#{file_split[1]}-#{file_split[2].to_i + 1}"
 		else
 			file_id += "-2"
 		end
