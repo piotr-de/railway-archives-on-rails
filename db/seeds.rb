@@ -96,10 +96,14 @@ image_path = "http://piotrd.czuby.net/railway-archives/"
 
 Unit.all.each do |unit|
 	file_id = unit.serial_no.downcase
-	file_split = file_id.split("-")
-	jpg_name = file_split.length > 2 ? "#{file_split[1]}-#{file_split[2]}.jpg" : "#{file_split[1]}.jpg"
 	while encounters.has_key?(file_id)
-		new_encounter = Encounter.new(date: encounters[file_id][0], description: encounters[file_id][1], image_url: image_path.concat(jpg_name), unit_id: unit.id)
+		file_split = file_id.split("-")
+		if file_split.length > 2
+			jpg_path = image_path + "#{file_split[0]}/#{file_split[1]}-#{file_split[2]}.jpg"
+		else
+			jpg_path = image_path + "#{file_split[0]}/#{file_split[1]}.jpg"
+		end
+		new_encounter = Encounter.new(date: encounters[file_id][0], description: encounters[file_id][1], image_url: jpg_path, unit_id: unit.id)
 		if new_encounter.save
 			puts "Saved: #{unit.serial_no}, #{new_encounter["date"]}, #{new_encounter["description"]}"
 		else
