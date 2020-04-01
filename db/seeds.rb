@@ -92,16 +92,19 @@ end
 
 puts "Encounters to instantiate: #{encounters.count}"
 
+image_path = "http://piotrd.czuby.net/railway-archives/"
+
 Unit.all.each do |unit|
 	file_id = unit.serial_no.downcase
+	file_split = file_id.split("-")
+	jpg_name = file_split.length > 2 ? "#{file_split[1]}-#{file_split[2]}.jpg" : "#{file_split[1]}.jpg"
 	while encounters.has_key?(file_id)
-		new_encounter = Encounter.new(date: encounters[file_id][0], description: encounters[file_id][1], unit_id: unit.id)
+		new_encounter = Encounter.new(date: encounters[file_id][0], description: encounters[file_id][1], image_url: image_path.concat(jpg_name), unit_id: unit.id)
 		if new_encounter.save
 			puts "Saved: #{unit.serial_no}, #{new_encounter["date"]}, #{new_encounter["description"]}"
 		else
 			puts "Skipped: #{unit.serial_no}, #{new_encounter["date"]}, #{new_encounter["description"]}"
 		end
-			file_split = file_id.split("-")
 		if file_split.length > 2
 			file_id = "#{file_split[0]}-#{file_split[1]}-#{file_split[2].to_i + 1}"
 		else
