@@ -9,6 +9,14 @@
 puts "Instantiating classes"
 
 new_classes = [
+	{ name: "201E", propulsion: "Electric", category: "Freight Locomotive", country: "Poland", operator: "CTL" },
+	{ name: "3E", propulsion: "Electric", category: "Freight Locomotive", country: "Poland", operator: "CTL" },
+	{ name: "3E", propulsion: "Electric", category: "Freight Locomotive", country: "Poland", operator: "KP_Szczakowa" },
+	{ name: "401Da", propulsion: "Diesel", category: "Shunting Locomotive", country: "Poland", operator: "PL" },
+	{ name: "409Da", propulsion: "Diesel", category: "Shunting Locomotive", country: "Poland", operator: "PL" },
+	{ name: "411s", propulsion: "Diesel", category: "Shunting Locomotive", country: "Poland", operator: "PKP" },
+	{ name: "418D", propulsion: "Diesel", category: "Shunting Locomotive", country: "Poland", operator: "PL" },
+	{ name: "418Da", propulsion: "Diesel", category: "Shunting Locomotive", country: "Poland", operator: "PL" },
 	{ name: "EM10", propulsion: "Electric", category: "Shunting Locomotive", country: "Poland", operator: "PKP" },
 	{ name: "EM120", propulsion: "Diesel", category: "Motor Unit", country: "Poland", operator: "PKP" },
 	{ name: "EN56", propulsion: "Electric", category: "Motor Unit", country: "Poland", operator: "PKP" },
