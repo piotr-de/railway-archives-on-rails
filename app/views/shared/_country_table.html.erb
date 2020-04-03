@@ -1,21 +1,23 @@
 <table class="mainlocos" align="center" cellpadding="1" cellspacing="1">
-<% @units.group(:propulsion, :category).count.each do |group| %>
-	<tr>
-		<td class="tdtabor2" colspan="3">
-			<%= "#{group[0][0]} #{group[0][1]}s" %>
-		</td>
-	</tr>
-	<tr>
-		<td class="tdmainlocos" colspan="3">
-			<% @units.where(propulsion: group[0][0], category: group[0][1]).group(:name, :operator).count.each do |cl| %>
-				<% operator = cl[0][1].gsub("_", " ") %>
-				<%= link_to "#{cl[0][0]} (#{operator})", units_path(country: params[:country], cl: cl[0][0].downcase, operator: cl[0][1].downcase) %>
-				<span class="small">[<%= cl[1] %>]</span>
-				<br>
-			<% end %>
-		</td>
-	</tr>
-<% end %>
+	<% @units.group(:propulsion, :category).count.each do |group| %>
+		<tr>
+			<td class="tdtabor2" colspan="3">
+				<%= "#{group[0][0]} #{group[0][1]}s" %>
+			</td>
+		</tr>
+		<tr>
+			<td class="tdmainlocos" colspan="3">
+				<% @units.where(propulsion: group[0][0], category: group[0][1]).group(:name, :operator).count.each do |cl| %>
+					<% operator = cl[0][1].gsub("_", " ") %>
+					<%= link_to "#{cl[0][0]} (#{operator})", units_path(cl: cl[0][0].downcase, operator: cl[0][1].downcase) %>
+					<span class="small">[<%= cl[1] %>]</span>
+					<br>
+				<% end %>
+			</td>
+		</tr>
+	<% end %>
+</table>
+
 <!-- <tr>
 <td class="tdtabor2" colspan="3">
 Electric shunting locomotives
@@ -264,4 +266,3 @@ Track maintenance vehicles
 </tr>
 </td>
 </tr> -->
-</table>

@@ -6,7 +6,7 @@
 	</tr>
 	<tr>
 		<td class="tdmainlocos" style="text-align: left;" colspan="2">
-			<%= link_to units_path(country: "poland") do %>
+			<%= link_to root_path(country: "poland") do %>
 				<%= image_tag "this2" %><b>Poland</b><br>
 			<% end %>
 		</td>
@@ -18,7 +18,7 @@
 	</tr>
 	<tr>
 		<td class="tdmainlocos" style="text-align: left;" colspan="2">
-			<%= form_tag units_path, method: :get do %>
+			<%= form_tag root_path, method: :get do %>
 				<%= text_field_tag :query %>
 				<%= submit_tag "Search" %>
 			<% end %>
