@@ -1,4 +1,21 @@
 <table class="mainlocos" align="center" cellpadding="1" cellspacing="1">
+<% @units.group(:propulsion, :category).count.each do |group| %>
+	<tr>
+		<td class="tdtabor2" colspan="3">
+			<%= "#{group[0][0]} #{group[0][1]}s" %>
+		</td>
+	</tr>
+	<tr>
+		<td class="tdmainlocos" colspan="3">
+			<% @units.where(propulsion: group[0][0], category: group[0][1]).group(:name, :operator).count.each do |cl| %>
+				<% operator = cl[0][1].gsub("_", " ") %>
+					<%= link_to "#{cl[0][0]} (#{operator})", units_path(country: params[:country], cl: cl[0][0].downcase, operator: cl[0][1].downcase) %>
+				<span class="small">[<%= cl[1] %>]</span>
+				<br>
+			<% end %>
+		</td>
+	</tr>
+<% end %>
 <tr>
 <td class="tdtabor2" colspan="3">
 Electric shunting locomotives
@@ -6,9 +23,8 @@ Electric shunting locomotives
 </tr>
 <tr>
 <td class="tdmainlocos" colspan="3">
-
 	<a href="?id=et22-pkp">EM10</a>&nbsp;
-	<span class="small">[<%= Unit.where(name: "EM10").count %>]</span>
+	<span class="small">[<%= @units.where(name: "EM10").count %>]</span>
 </td>
 </tr>
 <tr>
@@ -33,7 +49,7 @@ Electric universal locomotives
 </td>
 <td class="tdmainlocos" style="width: 33%;">
 <a href="?id=et21-pkp">ET21</a>&nbsp;<span class="small">['.file_counter('et21-pkp').']</span><br>
-<a href="?id=et22-pkp">ET22</a>&nbsp;<span class="small">[<%= ClassCode.where(name: "ET22").count %>]</span><br>
+<a href="?id=et22-pkp">ET22</a>&nbsp;<span class="small">[<%= Unit.where(name: "ET22").count %>]</span><br>
 <a href="?id=et40-pkp">ET40</a>&nbsp;<span class="small">['.file_counter('et40-pkp').']</span><br>
 <a href="?id=et41-pkp">ET41</a>&nbsp;<span class="small">['.file_counter('et41-pkp').']</span><br>
 <a href="?id=et42-pkp">ET42</a>&nbsp;<span class="small">['.file_counter('et42-pkp').']</span><br><br>
