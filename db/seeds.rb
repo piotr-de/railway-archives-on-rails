@@ -54,7 +54,7 @@ new_classes = [
 	{ name: "Pt47", propulsion: "Steam", category: "Fast Locomotive", country: "Poland", operator: "PKP" },
 	{ name: "Ol49", propulsion: "Steam", category: "Passenger Locomotive", country: "Poland", operator: "PKP" },
 	{ name: "Ol49", propulsion: "Steam", category: "Passenger Locomotive", country: "Poland", operator: "PKP" },
-	{ name: "S200", propulsion: "Diesel", category: "Locomotive", country: "Poland", operator: "PL" },
+	{ name: "S200", propulsion: "Diesel", category: "Shunting Locomotive", country: "Poland", operator: "PL" },
 	{ name: "SA101", propulsion: "Diesel", category: "Motor Unit", country: "Poland", operator: "PKP" },
 	{ name: "SA102", propulsion: "Diesel", category: "Motor Unit", country: "Poland", operator: "PKP" },
 	{ name: "SA105", propulsion: "Diesel", category: "Motor Unit", country: "Poland", operator: "PKP" },
