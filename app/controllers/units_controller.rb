@@ -12,6 +12,7 @@ class UnitsController < ApplicationController
 	end
 
 	def show
-		@unit = Unit.find(params[:id])
+		@encounter = Encounter.find(params[:id])
+		@unit = Unit.find(@encounter.unit_id)
 	end
 end
