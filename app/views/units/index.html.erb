@@ -3,7 +3,7 @@
 		<%= link_to "Railways in Poland/", root_path, class: "menu" %>
 		<%= link_to "#{@units.first.country}/", root_path(country: @units.first.country.downcase), class: "menu" %>
 		<span class="header">
-			<%= "#{@units.first.name} (#{@units.first.operator})" %>
+			<%= "#{@units.first.name} (#{@units.first.operator.gsub("_", " ")})" %>
 		</span>
 	</td>
 </tr>
@@ -29,7 +29,8 @@
 								<% end %>
 							</td>
 							<td class="tdlocos" style="width: 70%;">
-								<b><%= encounter.date %></b>&nbsp;<%= encounter.description %><br>
+								<b><%= unit.serial_no %></b>&nbsp;<%= encounter.description %>
+								<p><%= encounter.date.strftime("%d %b %Y") %></p>
 							</td>
 						</tr>
 					<% end %>

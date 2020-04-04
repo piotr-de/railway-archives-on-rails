@@ -12,7 +12,10 @@ class UnitsController < ApplicationController
 	end
 
 	def show
-		@encounter = Encounter.find(params[:id])
+		@encounter ||= Encounter.find(params[:id])
 		@unit = Unit.find(@encounter.unit_id)
+	rescue ActiveRecord::RecordNotFound
+		flash[:notice] = "Wrong ID"
+		redirect_to root_path
 	end
 end

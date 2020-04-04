@@ -2,7 +2,7 @@
 	<td class="tdmain" style="background-color: #0080c0;">
 		<%= link_to "Railways in Poland/", root_path, class: "menu" %>
 		<%= link_to "#{@unit.country}/", root_path(country: @unit.country.downcase), class: "menu" %>
-		<%= link_to "#{@unit.name} (#{@unit.operator})/", units_path(cl: @unit.name.downcase, operator: @unit.operator.downcase), class: "menu" %>
+		<%= link_to "#{@unit.name} (#{@unit.operator.gsub("_", " ")})/", units_path(cl: @unit.name.downcase, operator: @unit.operator.downcase), class: "menu" %>
 		<span class="header">
 			<%= @unit.serial_no.upcase %>
 		</span>
