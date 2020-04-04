@@ -8,6 +8,7 @@ class UnitsController < ApplicationController
 		else
 			redirect_to root_path
 		end
+		@units = @units.sort_by { |unit| unit.serial_no.split("-")[-1].to_i }
 	end
 
 	def show
