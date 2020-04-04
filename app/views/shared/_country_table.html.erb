@@ -1,21 +1,25 @@
-<table class="mainlocos" align="center" cellpadding="1" cellspacing="1">
+<div class="grid-container">
 	<% @units.order(:propulsion, :category).group(:propulsion, :category).count.each do |group| %>
-		<tr>
-			<td class="tdtabor2" colspan="3">
-				<%= "#{group[0][0]} #{group[0][1]}s" %>
-			</td>
-		</tr>
-		<tr>
-			<td class="tdmainlocos" colspan="3">
-				<% @units.where(propulsion: group[0][0], category: group[0][1]).order(:name).group(:name, :operator).count.each do |cl| %>
-					<% operator = cl[0][1].gsub("_", " ") %>
-					<%= link_to "#{cl[0][0]} (#{operator})", units_path(cl: cl[0][0].downcase, operator: cl[0][1].downcase) %>
-					<br>
-				<% end %>
-			</td>
-		</tr>
+		<div class="grid-card">
+			<table class="mainlocos" align="center" cellpadding="1" cellspacing="1">
+				<tr>
+					<td class="tdtabor2" colspan="3">
+						<%= "#{group[0][0]} #{group[0][1]}s" %>
+					</td>
+				</tr>
+				<tr>
+					<td class="tdmainlocos" colspan="3">
+						<% @units.where(propulsion: group[0][0], category: group[0][1]).order(:name).group(:name, :operator).count.each do |cl| %>
+							<% operator = cl[0][1].gsub("_", " ") %>
+							<%= link_to "#{cl[0][0]} (#{operator})", units_path(cl: cl[0][0].downcase, operator: cl[0][1].downcase) %>
+							<br>
+						<% end %>
+					</td>
+				</tr>
+			</table>
+		</div>
 	<% end %>
-</table>
+</div>
 
 <!-- <tr>
 <td class="tdtabor2" colspan="3">

@@ -24,6 +24,16 @@ SUB {
 	vertical-align: sub;
 }
 
+.grid-container {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 10px;
+}
+
+.grid-card {
+	display: block;
+}
+
 .header {
 	font: normal 8pt Tahoma;
 	color: #ddeeff;
