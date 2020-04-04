@@ -1,0 +1,37 @@
+<tr>
+	<td class="tdmain" style="background-color: #0080c0;">
+		<%= link_to "Railways in Poland/", root_path, class: "menu" %>
+		<span class="header">
+			Search Results: <%= @encounters.count %>
+		</span>
+	</td>
+</tr>
+<tr>
+	<td class="tdmain" style="background-color: #ffff80; padding: 20px 0;">
+		<table border="0" align="center" class="locos" cellpadding="1" cellspacing="1">
+			<% if @encounters.empty? %>
+				<tr>
+					<td class="tdlocos" style="width: 1000%;">
+						No results found
+					</td>
+				</tr>
+			<% end %>
+			<% @encounters.each do |encounter| %>
+				<tr>
+					<td class="tdlocos" style="width: 30%;">
+						<% split_pattern = "/#{encounter.unit.name.downcase}-#{encounter.unit.operator.downcase}/" %>
+						<% image_path = encounter.image_url.split(split_pattern) %>
+						<% image_thumb = "#{image_path[0]}#{split_pattern}small/#{image_path[-1]}" %>
+						<%= link_to unit_path(encounter) do %>
+							<%= image_tag image_thumb %>
+						<% end %>
+					</td>
+					<td class="tdlocos" style="width: 70%;">
+						<b><%= encounter.unit.serial_no %></b>&nbsp;<%= encounter.description %>
+						<p><%= encounter.date.strftime("%d %b %Y") %></p>
+					</td>
+				</tr>
+			<% end %>
+		</table>
+	</td>
+</tr>

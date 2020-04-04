@@ -12,9 +12,19 @@ class UnitsController < ApplicationController
 	end
 
 	def show
-		@encounter ||= Encounter.find(params[:id])
+		@encounter = Encounter.find(params[:id])
 		@unit = Unit.find(@encounter.unit_id)
 	rescue ActiveRecord::RecordNotFound
 		redirect_to root_path
+	end
+
+	def search
+		if params[:query].present?
+			@units = Unit.where("serial_no ILIKE ?", "%#{params[:query]}%")
+			@encounters = Encounter.where(unit: @units)
+			if @units.empty?
+				@encounters = Encounter.where("description ILIKE ?", "%#{params[:query]}%")
+			end
+		end
 	end
 end
