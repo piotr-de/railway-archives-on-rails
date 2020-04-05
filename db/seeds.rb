@@ -107,7 +107,7 @@ new_classes = [
 	{ name: "210", propulsion: "Electric", category: "Locomotive", country: "Czech Republic", operator: "CD" },
 	{ name: "218", propulsion: "Diesel", category: "Locomotive", country: "Germany", operator: "DB" },
 	{ name: "230", propulsion: "Electric", category: "Locomotive", country: "Czech Republic", operator: "CD" },
-	{ name: "232", propulsion: "Diesel", category: "Locomotive", country: "Czech Republic", operator: "DB" },
+	{ name: "232", propulsion: "Diesel", category: "Locomotive", country: "Germany", operator: "DB" },
 	{ name: "242", propulsion: "Electric", category: "Locomotive", country: "Czech Republic", operator: "CD" },
 	{ name: "263", propulsion: "Electric", category: "Locomotive", country: "Czech Republic", operator: "CD" },
 	{ name: "2M62", propulsion: "Diesel", category: "Locomotive", country: "Ukraine", operator: "UZ" },

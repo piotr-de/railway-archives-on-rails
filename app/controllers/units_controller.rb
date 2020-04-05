@@ -21,7 +21,7 @@ class UnitsController < ApplicationController
 	def search
 		if params[:query].present?
 			@units = Unit.where("serial_no ILIKE ?", "%#{params[:query]}%")
-			@encounters = Encounter.where(unit: @units)
+			@encounters = Encounter.where(unit: @units).sort_by { |e| [ e.unit.serial_no.split("-")[-1].to_i, e.date ] }
 			if @units.empty?
 				@encounters = Encounter.where("description ILIKE ?", "%#{params[:query]}%")
 			end

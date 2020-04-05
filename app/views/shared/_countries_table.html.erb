@@ -6,9 +6,9 @@
 	</tr>
 	<tr>
 		<td class="tdmainlocos" style="text-align: left;" colspan="2">
-			<% @units.group(:country).count.each do |country| %>
-				<%= link_to root_path(country: country) do %>
-					<%= image_tag "this2" %><b><%= country %></b><br>
+			<% @units.group(:country).count.sort_by { |c| -c[1] }.each do |country| %>
+				<%= link_to root_path(country: country[0].downcase) do %>
+					<%= image_tag "http://piotrd.czuby.net/img/this2.gif" %><b><%= country[0] %></b><br>
 				<% end %>
 			<% end %>
 		</td>
@@ -21,7 +21,7 @@
 	<tr>
 		<td class="tdmainlocos" style="text-align: left;" colspan="2">
 			<%= form_tag search_path, method: :get do %>
-				<%= text_field_tag :query %>
+				<%= text_field_tag :query, "", placeholder: "Class, serial no. or caption" %>
 				<%= submit_tag "Search" %>
 			<% end %>
 		</td>
