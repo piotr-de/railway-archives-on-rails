@@ -1,0 +1,10 @@
+001#11.08.2003^entering Stêszew as the pssenger train from Poznañ to Grodzisk Wielkopolski.
+001-2#11.08.2003^entering Stêszew as the train to Grodzisk Wielkopolski.
+001-3#12.08.2003^entering Stêszew as the train from Poznañ to Grodzisk Wielkopolski.
+001-4#12.08.2003^with SA105-002 as the train No. 4438 from Poznañ to Wolsztyn, entering Stêszew.
+001-5#18.07.2003^entering Stêszew.
+002#14.07.2003^at Poznañ G³ówny station.
+002-2#11.08.2003^departing from Stêszew station as the Wolsztyn-Poznañ train.
+002-3#12.08.2003^leaving Stêszew.
+002-4#16.08.2003^behind SA105-001, departing from Stêszew station for Wolsztyn.
+002-5#29.08.2003^entering Stêszew.

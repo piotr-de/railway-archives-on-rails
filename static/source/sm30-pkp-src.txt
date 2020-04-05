@@ -1,0 +1,36 @@
+019#15.08.2003^at Poznañ Franowo depot.
+052#27.01.2002^becoming increasingly spoiled at Dêblin depot.
+053#10.06.2004^at Ma³aszewicze depot.
+053-2#10.06.2004^at Ma³aszewicze depot.
+052-2#27.01.2002^at Dêblin depot.
+062#12.07.2003^at Inowroc³aw depot.
+079#16.06.2002^at the car depot in Che³m.
+093#02.02.2002^removed already from the inventory, at Gdynia Grabówek depot.
+097#31.08.2003^in the Warszawa Odolany depot.
+105#15.08.2003^at Poznañ Franowo depot.
+125#22.02.2004^at Inowroc³aw depot.
+144#02.02.2002^going out from Gdynia Grabówek roundhouse.
+144-2#02.02.2002^on the turntable at Gdynia Grabówek depot.
+150#02.02.2002^in the one of the two Gdynia Grabówek depots.
+150-2#24.02.2004^at the car depot in Zaj±czkowo Tczewskie.
+155#02.02.2002^among other diesel locos, at Gdynia Grabówek roundhouse.
+159#30.08.2003^at Zduñska Wola Karsznice depot.
+161#28.04.2002^at £uków depot.
+172#13.08.2003^in the Ostrów Wielkopolski depot.
+176#23.02.2002^shunting some cars at the car depot near Lublin Tatary freight station.
+176-2#23.02.2002^at the loading platform at Lublin Tatary freight station.
+176-3#12.04.2003^manoeuvring at the edge of Lublin depot before being refueled.
+203#20.04.2002^shunting ET22-102 at Dêblin depot.
+204#20.04.2002^with a tanker just before leaving the area of Che³m car depot.
+209#30.08.2003^at Zduñska Wola Karsznice depot.
+210#12.07.2003^in Inowroc³aw depot.
+219#13.08.2003^at Ostrów Wielkopolski depot.
+227#30.08.2003^at Zduñska Wola Karsznice depot.
+228#13.08.2003^at Ostrów Wielkopolski depot.
+244#12.07.2003^at one of Czerwieñsk depots.
+249#12.07.2003^in front of the EMU depot in Olsztyn.
+253#08.02.2003^in Bydgoszcz depot.
+290#27.06.2002^in Szczecinek engine-house.
+290-2#21.07.2002^at Szczecin Port Centralny depot.
+290-3#02.11.2003^at Szczecin Port Centralny depot.
+299#26.06.2003^at Bydgoszcz G³ówna depot.

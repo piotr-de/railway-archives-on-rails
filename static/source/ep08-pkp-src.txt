@@ -1,0 +1,29 @@
+<!--2001-->
+007#23.09.2001^at Warszawa Zachodnia station during the electric locomotives show.
+007-2#23.09.2001^at Warszawa Wschodnia station.
+007-3#23.09.2001^- the engineer cabin.
+<!--2002-->
+007-4#25.06.2002^with the express 'Mewa' from Warsaw to Szczecin, passing Teresin Niepokalanów station.
+008#10.08.2002^with the express No. 181 'Mewa' passing Poznañ Wschód station.
+012#10.08.2002^with the international passenger train (!) No. 5984 to Frankfurt/Oder, before beginning its route at Poznañ G³ówny station.  
+008-2#30.08.2002^with the express No. 6112 'S³owacki' from Wroc³aw to Warszawa Wschodnia, pulling in Kutno station.
+<!--2003-->
+009#24.05.2003^passing Brwinów with the fast train No. 17103 'Starosta' from Warsaw to Poznañ that reaches the E20 main line in £owicz going through Skierniewice.
+001#13.07.2003^with the fast train No. 17103 'Starosta' from Warsaw to Poznañ, passing Libartowo between Gu³towy and Kostrzyn Wielkopolski.
+009-2#13.07.2003^with the express No. 8110 'Mewa' from Szczecin to Warsaw passing Strumiany near Kostrzyn Wielkopolski.
+010#13.07.2003^passing Libartowo near Kostrzyn Wielkpolski with the express 'S³owacki' from Warszawa Wschodnia to Wroc³aw.
+012-2#13.07.2003^with the express 'Mewa' from Warsaw to Szczecin, passing Libartowo about a quarter before pulling in Poznañ.
+009-3#14.07.2003^passing Poznañ Garbary station with the express 'Mewa' from Warsaw to Szczecin.
+010-2#09.08.2003^with the Ex 'S³owacki', between Gu³towy and Kostrzyn Wielkopolski on the Polish part of the E20 European transport corridor.
+008-3#31.08.2003^after an accident, in Warszawa Odolany depot.
+013#21.09.2003^at Warszawa Olszynka Grochowska depot.
+014#21.09.2003^dilapidating at Warszawa Olszynka Grochowska depot.
+<!--2004-->
+011#12.06.2004^Ex 1811 'Mewa'. O³tarzew.
+007-5#23.06.2004^Ex 6201 'Bystrzyca' entering Lublin.
+007-6#04.07.2004^71102 'Zielonogórzanin' between Kostrzyn Wlkp. and Gu³towy.
+011-2#04.07.2004^Ex 1711 'Lubuszanin' approaching Kostrzyn Wielkopolski.
+013-2#04.07.2004^Ex 1811 'Mewa' between Gmu³towy and Kostrzyn Wielkopolski.
+006#06.07.2004^71102 'Zielonogórzanin'. Between Kostrzyn Wlkp. and Gu³towy.
+007-7#06.07.2004^Ex 1711 'Lubuszanin' between Gu³towy and Kostrzyn Wlkp.
+006-2#24.07.2004^Ex 1811 'Mewa'. Kutno.

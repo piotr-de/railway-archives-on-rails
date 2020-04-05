@@ -1,0 +1,14 @@
+16#23.09.2001^during the electric locos show at Warszawa Zachodnia station.
+16-2#23.09.2001^at Warszawa Zachodnia station.
+16-3#23.09.2001^at Warszawa Zachodnia station.
+23#23.09.2001^with the international express 'Praha' from Warsaw to Prague, stopped unexpectedly at Warszawa Zachodnia station due to a damage of the door in one of the Czech cars.
+23-2#23.09.2001^during the forced stopover at Warszawa Zachodnia station.
+16-4#03.05.2002^just after bringing to Cracow the Ex No. 1303 'Wyspiañski'.
+16-5#03.05.2002^detached from its train at Kraków G³ówny station.
+22#02.05.2002^as a monument, at the Kraków Prokocim depot.
+18#21.09.2003^in a terrible condition at Warszawa Olszynka Grochowska depot.
+01#18.04.2004^Warszawa Olszynka Grochowska depot.
+23-3#18.04.2004^Warszawa Olszynka Grochowska depot.
+23-4#20.06.2004^CMK km 74.1. IC 3502 'Norwid' Kraków-Gdynia.
+23-5#20.06.2004^CMK km 74.3. IC 3502 'Norwid' Kraków-Gdynia.
+23-6#20.06.2004^CMK km 74.4. IC 3502 'Norwid' Kraków-Gdynia.

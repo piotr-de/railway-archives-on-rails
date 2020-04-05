@@ -1,0 +1,57 @@
+01#05.02.2003^passing Gdañsk G³ówny station with a freight to Gdynia Port station.
+03#30.08.2003^at Zduñska Wola Karsznice depot.
+04#05.02.2003^passing Gdañsk ¦wiêty Wojciech with a freight to the North Harbour.
+07#26.06.2003^with SU45-179 diesel locomotive, at Bydgoszcz G³ówna station. 
+11#03.01.2003^passing Gdañsk Wrzeszcz station with empty coal cars to Silesia.
+11-2#15.08.2003^at Poznañ Franowo depot.
+13#21.12.2003^passing Tarnowskie Góry station with a freight.
+13-2#27.12.2003^with a coal freight between Pelplin and Subkowy.
+14#30.08.2003^at Zduñska Wola Karsznice depot.
+15#23.06.2003^with coal cars, passing Zawiercie, at the end of its route to freight station in £azy.
+15-2#21.12.2003^at Tarnowskie Góry depot.
+16#29.06.2003^with ET42-044, passing Pruszcz Gdañski station.
+16-2#08.07.2003^passing Ró¿yny with the coal cars.
+16-3#12.07.2003^with a freight leaving Inowroc³aw station.
+19#01.07.2003^with a container train from Gdynia, crossing the Mot³awa river bridge in Gdañsk ¦wiêty Wojciech.
+19-2#09.07.2003^passing Gdañsk ¦wiêty Wojciech with a freight.
+23#08.07.2003^pulled by ST44-1109, passing Gdañsk Niegowo.
+25#09.07.2003^with a freight passing Gdañsk ¦wiêty Wojciech.
+26#09.07.2003^passing Gdañsk Niegowo with a freight.
+27#11.07.2003^with a freight to Gdynia Port station, between Gdañsk Zaspa and Przymorze.
+27-2#04.08.2003^passing Ró¿yny with a container freight to Gdynia. 
+28#07.02.2003^at Zaj±czkowo Tczewskie depot.
+30#27.02.2004^passing Zaj±czkowo Tczewskie shunting yard.
+31#01.07.2003^passing the closed Gdañsk ¦wiêty Wojciech station with a freight.
+31-2#11.07.2003^pulling in Gdañsk Oliwa station with a freight.
+34#06.02.2003^with a freight passing Cieplewo near Gdañsk.
+36#31.12.2002^passing Gdañsk Oliwa station with tankers.
+36-2#09.07.2003^crossing the Mot³awa river bridge in Gdañsk ¦wiêty Wojciech, with a freight from Gdynia.
+37#06.02.2003^passing Cieplewo train stop with a freight towards Gdañsk.
+37-2#01.07.2003^crossing the Mot³awa river bridge near Gdañsk Olszynka freight station.
+38#01.07.2003^leaving Gdañsk G³ówny station with a freight to the south of Poland.
+38-2#05.07.2003^pulling in Gdañsk Wrzeszcz station with a freight.
+41#05.02.2003^passing Gdañsk Lipce with a freight from Gdynia Port station. This is the legendary loco that was adapted to the speed of 160 kmph and renumbered as EP40-41 pulled the fastest expresses along the Central Trunk Line. After the fire in one of its sections it was renamed back to ET40-41.
+41-2#27.02.2004^passing Mi³ob±dz train halt with a freight. 
+42#07.02.2003^at Zaj±czkowo Tczewskie depot.
+43#20.06.2003^with coal cars, passing Czêstochowa station towards £azy.
+43-2#21.06.2003^passing Myszków Mrzyg³ód with freight train to the north of Poland.
+46#15.07.2002^at Gdynia Grabówek depot.
+46-2#01.07.2003^passing Gdañsk Niegowo with a freight.
+47#01.07.2003^passing Gdañsk Niegowo with full coal cars.
+48#01.07.2003^passing Skowarcz train halt with a freight.
+48-2#06.08.2003^passing Cieplewo with empty coal cars to Silesia.
+50#01.07.2003^passing Gdañsk ¦wiêty Wojciech with a freight.
+50-2#16.07.2003^passing Gdañsk Zaspa SKM train halt with coal wagons from Gdynia.
+50-3#27.02.2004^as the pushing loco of a freight passing Mi³ob±dz.
+51#01.07.2003^with a freight passing Gdañsk Oliwa station.
+52#01.07.2003^with a freight near Mot³awa Most junction.
+55#17.07.2002^with the freight from the steelworks in Konin at Gdynia Or³owo station. 
+56#19.07.2002^with empty coal cars passing Gdynia Or³owo station heading for Silesia. 
+57#23.09.2001^during the electric locomotive show at Warszawa Zachodnia station.
+57-2#23.07.2003^with a freight near Mot³awa Most junction in Gdañsk.
+58#01.07.2003^passing Ró¿yny with a freight.
+59#07.02.2003^passing Gdañsk Przymorze SKM train halt with a freight to Gdynia Port station.
+59-2#23.12.2003^leaving Pruszcz Gdañski with a freight.
+60#01.07.2003^with a freight to Gdynia passing Gdañsk ¦wiêty Wojciech.
+<!--2004-->
+33#20.07.2004^running through Gdañsk G³ówny.

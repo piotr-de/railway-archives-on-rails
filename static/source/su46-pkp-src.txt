@@ -1,0 +1,31 @@
+008#02.05.2003^entering Nysa station with the passenger train from Kamieniec Z±bkowicki to Kêdzierzyn Ko¼le. 
+008-2#02.05.2003^entering Nysa station.
+009#01.02.2002^maneuvering at Gdynia G³ówna station. 
+009-2#02.02.2002^rolling out from the area of Gdynia Grabówek depot for Gdynia G³ówna station.
+009-3#29.01.2003^passing the GWK-1 switch box of Gdynia Wielki Kack station, with the passenger train from Ko¶cierzyna to Gdynia.
+009-4#30.01.2003^entering Gdynia Wielki Kack station with the passeger train from Ko¶cierzyna. 
+009-5#03.02.2003^departing from Gdynia Wielki Kack station with the passenger train from Gdynia to Ko¶cierzyna.
+009-6#30.06.2003^entering Rêbiechowo with the passenger train to Ko¶cierzyna.
+009-7#30.06.2003^entering Rêbiechowo.
+015#07.07.2003^maneuvering at Olsztyn G³ówny station.
+022#13.08.2003^after bringing the morning passenger train No. 4435 from Wolsztyn, at Poznañ G³ówny station.
+022-2#07.07.2004^66145 Poznañ-W±growiec crossing Ba³tycka Street between Poznañ Wschód and Poznañ Karolin.
+033#12.08.2003^with the passenger train No. 4434 from Poznañ to Wolsztyn, between Ronówko and Stêszew.
+039#30.08.2001^a while before departing to Ko¶cierzyna from Gdynia G³ówna station.
+039-2#29.01.2003^running through Gdynia Ma³y Kack with the passenger train from Gdynia to Ko¶cierzyna.
+039-3#01.02.2003^with SU46-009, departing from Gdynia Wielki Kack to Ko¶cierzyna.
+039-4#30.06.2003^entering Rêbiechowo with a passenger train from Ko¶cierzyna to Gdynia. 
+041#03.02.2002^entering Gdynia Wielki Kack station with the train from Ko¶cierzyna.
+041-2#03.02.2002^with the train to Ko¶cierzyna, just after passing the Tricity's bypass flyover.
+041-3#08.02.2002^before departing from Ko¶cierzyna station to Gdynia. 
+041-4#02.02.2003^with a Ko¶cierzyna-Gdynia train, between Gdañsk Osowa and Gdynia Wielki Kack stations.
+041-5#03.02.2003^entering Gdynia Wielki Kack station from Ko¶cierzyna direction.
+045#30.06.2003^entering Gdañsk Osowa with the passenger train from Ko¶cierzyna.
+048#27.07.2003^at one of the Czerwieñsk depots.
+049#15.08.2001^with a passenger train to Ko¶cierzyna, before its departure from Gdynia G³ówna station.
+049-2#02.02.2002^with a passenger train from Ko¶cierzyna to Gdynia entering Gdynia Wielki Kack station.
+049-3#03.02.2002^with a passenger train from Ko¶cierzyna to Gdynia, near the flyover of the Tricity bypass in Gdynia Wielki Kack.
+049-4#30.06.2003^leaving Gdañsk Osowa with the passenger train from Ko¶cierzyna.
+049-5#30.06.2003^leaving Gdañsk Osowa with the train to Ko¶cierzyna.
+051#02.02.2002^Gdynia Grabówek roundhouse.
+051-2#03.02.2003^with a passenger train to Ko¶cierzyna leaving Gdynia Wielki Kack passing GWK-1 switch box.

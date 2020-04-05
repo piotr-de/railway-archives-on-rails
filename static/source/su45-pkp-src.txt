@@ -1,0 +1,165 @@
+006#03.07.2003^in the repair depot in Chojnice.
+006-2#03.07.2003^departing from Czersk station with the passenger train from Chojnice to Tczew.
+010#14.05.2002^at Lublin depot.
+010-2#14.12.2002^with the international fast train No. 107 from Warszawa Zachodnia to Odessa running through Krê¿nica Jara.
+010-3#20.04.2003^with a Stalowa Wola Rozwadów-Lublin passenger train approaching Majdan train halt.
+027#13.06.2003^with some cars, on a sidetrack in Siedlce.
+028#07.07.2003^calling at Olsztyn G³ówny station with the fast train No. 51520/51100 'Mazury' from E³k to £ód¼ Fabryczna.
+041#19.01.2002^after the fire in diesel engine section, waiting to be scrapped at Lublin roundhouse. 
+041-2#19.01.2002^at Lublin roundhouse. 
+048#16.08.2003^at Leszno roundhouse.
+054#23.07.2002^Malbork depot.
+054-2#01.11.2003^55111 Gdynia-Braniewo. Komorowo ¯u³awskie.
+056#07.07.2003^at Olsztyn roundhouse.
+057#15.07.2002^near the turntable at Gdynia Grabówek depot.
+061#07.07.2003^in front of the Olsztyn roundhuse. 
+064#02.05.2003^calling at Nysa station with passenger train 46121 from Kêdzierzyn Ko¼le to Legnica.
+066#07.07.2003^maneuvering at Olsztyn G³ówny station after bringing a freight.
+067#25.11.2001^with passenger train No. 32432 from Rzeszów to Lublin, about 2 km before arriving at Lublin G³ówny.
+067-2#02.03.2002^with the train No. 32432, near Lublin G³ówny station.  
+067-3#01.12.2002^with a passenger train from Lublin to Stalowa Wola Rozwadów right after departing from Lublin Zemborzyce station.
+071#28.06.2003^with a passenger train to Szczecinek before departing from Tczew.
+078#25.06.2002^with a passenger train to Malbork, about an hour before departing from Toruñ G³ówny.
+078-2#23.07.2002^Malbork depot.
+079#08.02.2003^from CM Gdynia, on a sidetrack at Bydgoszcz G³ówna depot. 
+080#10.11.2001^with a passenger train from Lublin to Stalowa Wola Rozwadów, near Lublin Zemborzyce station.
+080-2#17.11.2001^with the international fast train from Warszawa Zachodnia to Odessa, just a few minutes after leaving Lublin G³ówny station.
+080-3#20.10.2002^with the afternoon passenger train from Lublin to Rzeszów, approaching Majdan train halt.
+080-4#27.02.2003^entering Krê¿nica Jara with the passenger train No. 23331 from Lublin to Rzeszów.
+089#05.10.2001^Lublin depot.
+089-2#14.05.2002^on the turntable at Lublin depot, not long before leaving Lublin with the passenger train No. 424 to Stalowa Wola Rozwadów. It's the first green locomotive in Lublin (that is after some dozen years between the abolition of such patterns and now - the return).
+089-3#24.12.2002^with a passenger train from Lublin to Stalowa Wola Rozwadów, near Lublin Zalew train halt closed at the beginning of 1990's.
+089-4#26.12.2002^with the international fast train from Warszawa to Odessa running through Le¶niczówka.
+089-5#13.04.2003^with a passenger train from Stalowa Wola Rozwadów to Lublin near Majdan train halt.
+089-6#20.04.2003^with the afternoon Lublin-Rzeszów passenger train, a little while after leaving Majdan train halt.
+092#16.08.2003^with the passenger train No. 33235 to Zb±szynek at Leszno station.
+092-2#16.08.2003^with the passenger train No. 33241 from Leszno entering Wolsztyn station.
+096#16.08.2003^in Leszno roundhouse.
+097#18.08.2003^with a passenger train at Wolsztyn station.
+097-2#16.08.2003^ariving at Leszno station with the passenger train No. 33232 from Zb±szynek.
+100#22.09.2002^from CM Bia³ystok, in front of one of Dêblin depots. 
+105#27.06.2002^at Szczecinek roundhouse. 
+106#14.07.2001^with a passenger train entering Kobylnica S³upska.
+106-2#26.06.2002^S³upsk-Szczecinek passenger train. Bia³y Bór.  
+106-3#14.07.2002^with passenger train in the opposite direction, near Bia³y Bór station. 
+108#26.06.2002^with a passenger train from S³upsk to Szczecinek calling at Bia³y Bór station.
+108-2#27.06.2002^with the morning passenger train from S³upsk. Bia³y Bór.
+108-3#29.06.2002^with another train in the same direction leaving the station in Bia³y Bór. 
+109#03.08.2001^with the passenger train No. 415 from Lublin to Stalowa Wola Rozwadów, between Lublin G³ówny and Lublin Zemborzyce stations.
+109-2#02.12.2001^with the passenger train No. 415, a while after leaving Lublin G³ówny station.
+109-3#26.12.2001^again with the passenger train No. 415, near Lublin Zemborzyce station. 
+109-4#26.12.2002^with a passenger train from Stalowa Wola Rozwadów to Lublin calling at Le¶niczówka train halt.
+109-5#26.12.2002^with the same train approaching Majdan train halt.
+112#07.02.2003^a short time after the repair in PESA Bydgoszcz, waiting at Zaj±czkowo Tczewskie shunting-yard to be transported to Chojnice. 
+115#03.07.2002^with one car as a freight to Brusy, a while before leaving Chojnice station.
+115-2#03.07.2003^entering Czersk with a passenger train Tczew-Chojnice.
+117#24.07.2003^with a passenger train from Kostrzyn to Krzy¿ leaving Strzelce Krajeñskie Wschód station.
+121#26.06.2003^maneuvering at Toruñ G³ówny station.
+122#03.07.2002^waiting in Chojnice to leave with a passenger train to Pi³a.
+123#02.08.2003^departing from Sztumska Wie¶ train halt with the evening passenger train from Malbork to Grudzi±dz. 
+126#01.04.2002^in front of Stalowa Wola Rozwadów depot.
+126-2#17.10.2002^with a passenger train from Lublin to Rzeszów leaving Lublin Zemborzyce station.
+126-3#23.03.2003^entering Krê¿nica Jara with the afternoon passenger train from Lublin to Rzeszów.
+126-4#20.04.2003^with the international fast train from Warszawa Zachodnia to Odessa, on the hill near Niedrzwica.
+129#27.07.2002^at Grudzi±dz depot.
+131#26.06.2003^at Bydgoszcz G³ówna roundhouse.
+135#27.12.2001^with Rzeszów-Lublin passenger train reaching the destination.
+135-2#24.12.2002^with one 112A class car instead of an SN81 class diesel motor unit, as a passenger train from Kra¶nik, near the closed Lublin Zalew train halt.
+143#16.08.2003^Leszno depot.
+145#03.07.2002^in front of Chojnice depot.
+147#16.08.2003^calling at Leszno station with the passenger train No. 76337 from Krotoszyn to G³ogów.
+151#11.08.2001^with the passenger train No. 417 from Lublin to Kra¶nik crossing the flyover over Diamentowa Street in Lublin.
+151-2#30.07.2001^with the international train from Odessa to Warszawa Zachodnia near Lublin G³ówny station.
+151-3#22.12.2001^in front of Lublin depot.
+151-4#24.12.2001^with the passenger train No. 32432 from Rzeszów to Lublin a while before arriving at Lublin G³ówny station.
+151-5#30.01.2002^with the passenger train from Stalowa Wola Rozwadów near Lublin G³ówny station.
+151-6#26.12.2002^entering Krê¿nica Jara with one car instead of an SN81 class diesel motor unit, as the morning passenger train from Kra¶nik to Lublin. 
+151-7#13.04.2003^near Majdan train halt, with a passenger train to Stalowa Wola Rozwadów. 
+152#03.07.2002^has just brought to Chojnice the passenger train no. 75726 from Pi³a.
+152-2#03.07.2002^in front of Chojnice depot. 
+154#21.04.2003^moved already from Nowy S±cz, but still with MT Wroc³aw Zachód signs, in Jas³o depot.
+154-2#03.05.2004^at Zagórz depot.
+156#27.07.2002^in front of Grudzi±dz depot.
+156-2#22.11.2003^refuelling behind Lublin roundhouse.
+161#03.07.2003^in the repair depot in Chojnice.
+165#01.05.2003^moved temporarily from Bia³ystok, before leaving Opole G³ówne for Nysa.
+165-2#02.05.2003^maneuvering in Nysa, in front of one of two unused Nysa roundhouses.
+165-3#02.05.2003^calling at £ambinowice with a passenger train from Opole to Nysa.
+166#26.06.2003^at Toruñ G³ówny station.
+168#27.07.2002^with 'Bursztyn' passenger train from S³upsk. Grudzi±dz. 
+172#09.12.2001^with the passenger train No. 415 from Lublin to Stalowa Wola Rozwadów, just a while after leaving Lublin G³ówny station.
+172-2#23.11.2002^leaving Lublin Zemborzyce station heading a passenger train to Stalowa Wola Rozwadów. 
+172-3#14.12.2002^entering Krê¿nica Jara heading a passenger train from Lublin to Stalowa Wola Rozwadów.
+172-4#26.12.2002^with a Bhp class car as a passenger train from Lublin to Stalowa Wola Rozwadów. Le¶niczówka.
+174#01.06.2003^with a passenger train to W±growiec. Poznañ G³ówny.
+175#16.08.2003^at Leszno roundhouse. 
+178#27.07.2002^in front of Grudzi±dz depot.
+179#26.06.2003^shunted by ET40-07 at Bydgoszcz G³ówna station.
+182#28.06.2003^arriving at Tczew station with the passenger train No. 7728 from Chojnice.
+187#16.08.2003^at Leszno roundhouse.
+187-2#18.08.2003^arriving at Wolsztyn station.
+189#18.07.2003^with the fast train No. 28101 from Che³m and Zamo¶æ to Kostrzyn. Krzy¿.
+191#23.07.2002^with a passenger train from Kwidzyn. Malbork. 
+192#01.04.2002^waiting to be repaired. A sidetrack at Stalowa Wola Rozwadów station.  
+192-2#20.10.2002^approaching Lublin Zemborzyce with a passenger train from Stalowa Wola Rozwadów to Lublin G³ówny.
+192-3#24.12.2002^with the international fast train from Warszawa Zachodnia to Odessa passing Lublin Zalew train halt closed at the beginning of the 1990s.
+192-4#13.05.2003^with one car instead of the scheduled railbus passing Lublin Zemborzyce on its way from Kra¶nik to Lublin G³ówny.
+194#07.07.2003^at Olsztyn depot.
+195#15.08.2003^with a passenger train from W±growiec. Poznañ G³owny.
+195-2#18.08.2003^in lieu of a pair of SA105 DMUs, entering Stêszew with the passenger train no. 4438 from Poznañ to Wolsztyn, delayed by some 30 minutes.
+197#03.07.2002^maneuvering at Chojnice station.
+197-2#05.07.2002^with two cars with a historical painting pattern as the afternoon passenger train from Chojnice to Ko¶cierzyna approaching Kalisz Kaszubski train halt.
+198#11.08.2003^entering Stêszew with the passenger train 4432 from Poznañ to Wolsztyn.  
+198-2#11.08.2003^with the passenger train from Wolsztyn to Poznañ departing from Trzebaw Rosnówko train halt.
+198-3#12.08.2003^entering Stêszew with the passenger train from Poznañ to Wolsztyn.
+198-4#12.08.2003^leaving Rosnówko with the passenger train from Wolsztyn to Poznañ.
+198-5#28.08.2003^entering Stêszew with a train from Wolsztyn to Poznañ.
+198-6#28.08.2003^approaching Stêszew station with a train from the Wolsztyn direction.  
+200#31.09.2003^at Warszawa Odolany depot.
+201#10.08.2001^with a passenger train from Stalowa Wola Rozwadów finishing its journey at Lublin G³ówny station. 
+201-2#24.11.2001^with the international fast train from Warszawa Zachodnia to Odessa, between Lublin G³ówny and Lublin Zemborzyce.
+201-3#30.11.2002^with the evening passenger train to Stalowa Wola Rozwadów, before leaving Lublin G³ówny station.
+201-4#15.12.2002^with passenger train from Lublin to Stalowa Wola Rozwadów, near Majdan train halt.
+204#27.07.2002^with SU45-210 and a passenger train to Toruñ G³ówny, a little while before departing from Grudzi±dz station.
+205#01.06.2003^has just brought to Poznañ G³ówny the passenger train No. 66237 from W±growiec.
+205-2#28.08.2003^entering Stêszew with a train to Wolsztyn.
+205-3#28.08.2003^leaving Stêszew with a Wolsztyn-Poznañ train.
+207#07.07.2003^maneuvering at Malbork station.
+208#08.02.2003^near Bydgoszcz G³ówna depot.
+212#01.04.2002^at Stalowa Wola Rozwadów, after bringing the passenger train No. 415 from Lublin.
+212-2#22.10.2002^with a passenger train from Lublin to Rzeszów, near the closed Lublin Zalew train halt.
+212-3#08.11.2002^with one Bh class car as a passenger train from Lublin to Kra¶nik, between Lublin G³ówny and Lublin Zemborzyce stations.
+212-4#29.03.2003^a while before leaving Dêbica with the passenger train No. 32332 to Stalowa Wola Rozwadów.
+212-5#29.03.2003^with the train No. 32332. Chmielów.
+212-6#20.04.2003^with a passenger train to Stalowa Wola Rozwadów climbing the hill before calling at Niedrzwica.
+213#07.07.2003^at Olsztyn G³ówny station. 
+214#09.08.2004^fast train '¦nie¿ka' from Kraków G³ówny to Jelenia Góra calling at Paczków station.
+215#23.07.2002^with a passenger train to Toruñ, before leaving Malbork.
+217#18.07.2003^entering Krzy¿ heading a passenger train from Kostrzyn to Pi³a.
+217-2#19.07.2003^passing Stare Bielice with a passenger train from Pi³a to Kostrzyn.
+221#27.06.2002^Szczecinek roundhouse.
+224#13.06.2003^on a sidetrack in Siedlce.
+224-2#13.06.2003^with the passenger train No. 88423 to Bia³ystok, before departing from Siedlce station.
+227#27.06.2002^at Szczecinek roundhouse.
+227-2#03.07.2003^ariving at Chojnice station with the passenger train from Szczecinek.
+228#13.10.2001^a little while before leaving Lublin G³ówny station with a passenger train to Stalowa Wola Rozwadów.
+228-2#13.04.2003^with a passenger train from Stalowa Wola Rozwadów to Lublin emerging from a little forest between Majdan and Krê¿nica Jara stations.
+228-3#27.09.2003^leaving Krê¿nica Jara with SM42-920 and the passenger train to Rzeszów.
+235#31.08.2003^at Warszawa Odolany depot.
+238#22.02.2004^maneuvering at Toruñ G³ówny station.
+240#27.06.2002^at Szczecinek depot.
+240-2#18.07.2003^with the passenger train from Kostrzyn to Pi³a. Krzy¿.
+240-3#19.07.2003^approaching Stare Bielice station with the passenger train from Kostrzyn to Krzy¿.
+242#13.06.2003^arriving at Siedlce station with the passenger train No. 88432 from Hajnówka (delayed for 96 minutes).
+245#03.07.2003^at Chojnice depot.
+246#16.08.2003^maneuvering at Leszno station.
+247#08.02.2003^in front of Bydgoszcz G³ówna depot.
+254#08.08.2003^with the evening train No. 11726 to Kcynia, at Bydgoszcz G³ówna station.
+254-2#11.08.2003^departing from Stêszew with the passenger train No. 4441 from Wolsztyn to Poznañ.
+256#03.07.2003^Chojnice depot. 
+257#25.06.2002^a passenger train from Sierpc. Toruñ G³ówny.
+260#27.06.2002^in front ot the turntable at Szczecinek roundhouse.  
+260-2#13.07.2002^with a passenger train from Pi³a to Kostrzyn. Witnica. 
+264#27.06.2002^Szczecinek roundhouse.
+<!--2003-->
+006-3#27.12.2003^77426 RegioPlus Chojnice-Gdynia entering Tczew.

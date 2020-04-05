@@ -1,0 +1,6 @@
+550#06.12.2002^one of the two shunting locos (the second one is 401Da-392) used by the Lublin sugar factory.
+550-2#06.12.2002^in the area of Lublin sugar factory. The loco is usually used for shunting some cars with coal and sugar production by-products.
+550-3#06.12.2002^at the checkpoint in the area of the Lublin sugar factory.
+836#03.04.2004^coming back to G鏎a W這dowska with an OHLE maintenance train and SM42-2581. Psary-G鏎a W這dowska.
+836-2#03.04.2004^coming back to G鏎a W這dowska. Psary-G鏎a W這dowska.
+x#03.04.2004^G鏎a W這dowska.

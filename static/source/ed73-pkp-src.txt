@@ -1,0 +1,3 @@
+001#01.06.2003^the only ED73 class unit - the modification of the earlier classes ED72 and EN57, as the passenger train no. 916 to Mogilno, before leaving Poznañ G³ówny station.
+001-2#01.06.2003^before leaving Poznañ G³ówny, as the train no. 916 to Mogilno.
+001-3#01.06.2003^at Poznañ G³ówny.
