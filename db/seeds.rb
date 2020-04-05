@@ -172,7 +172,7 @@ puts "Encounters to instantiate: #{encounters.count}"
 image_path = "http://piotrd.czuby.net/railway-archives/"
 
 Unit.all.each do |unit|
-	file_id = unit.serial_no.downcase
+	file_id = unit.country == "Poland" ? unit.serial_no.downcase : unit.serial_no.downcase.split(" ").join("-")
 	while encounters.has_key?(file_id)
 		file_split = file_id.split("-")
 		if file_split.length > 2
