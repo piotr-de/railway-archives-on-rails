@@ -5,7 +5,7 @@
 099#16.11.2002^passing Na³êczów station with Fals class cars.
 100#22.06.2003^increasingly spoiled at £azy depot.
 102#20.04.2002^Dêblin depot.
-102-2#18.09.2004^a freight train towards Dêblin. Lublin Rury.
+<!--102-2#18.09.2004^a freight train towards Dêblin. Lublin Rury.-->
 114#01.04.2002^passenger train. Stalowa Wola Rozwadów.
 114-2#02.03.2003^Stalowa Wola Rozwadów.
 125#27.01.2002^Dêblin.
