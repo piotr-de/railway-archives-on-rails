@@ -123,7 +123,7 @@
 204#27.07.2002^with SU45-210 and a passenger train to Toruñ G³ówny, a little while before departing from Grudzi±dz station.
 205#01.06.2003^has just brought to Poznañ G³ówny the passenger train No. 66237 from W±growiec.
 205-2#28.08.2003^entering Stêszew with a train to Wolsztyn.
-205-3#28.08.2003^leaving Stêszew with a Wolsztyn-Poznañ train.
+<!--205-3#28.08.2003^leaving Stêszew with a Wolsztyn-Poznañ train.-->
 207#07.07.2003^maneuvering at Malbork station.
 208#08.02.2003^near Bydgoszcz G³ówna depot.
 212#01.04.2002^at Stalowa Wola Rozwadów, after bringing the passenger train No. 415 from Lublin.

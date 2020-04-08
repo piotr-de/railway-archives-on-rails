@@ -8,6 +8,8 @@
 
 puts "Instantiating classes"
 
+puts "Environment: #{Rails.env}"
+
 new_classes = [
 	{ name: "201E", propulsion: "Electric", category: "Freight Locomotive", country: "Poland", operator: "CTL" },
 	{ name: "3E", propulsion: "Electric", category: "Freight Locomotive", country: "Poland", operator: "CTL" },
