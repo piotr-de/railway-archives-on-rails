@@ -116,6 +116,7 @@ new_classes = [
 	# { name: "362", propulsion: "Electric", category: "Locomotive", country: "Slovakia", operator: "ZSSK" },
 	# { name: "363", propulsion: "Electric", category: "Locomotive", country: "Czech Republic", operator: "CD" },
 	{ name: "ASF", propulsion: "Auxiliary", category: "Rail Vehicle", country: "Poland", operator: "PKP" },
+	{ name: "DGS", propulsion: "Auxiliary", category: "Rail Vehicle", country: "Poland", operator: "PKP" },
 ]
 
 puts "Total: #{new_classes.count}"
@@ -181,14 +182,18 @@ Unit.all.each do |unit|
 		else
 			jpg_path = image_path + "#{file_split[0]}-#{unit.operator.downcase}/#{file_split[1]}.jpg"
 		end
-		puts "Uploading #{jpg_path}"
+		puts "Resolving #{jpg_path}"
 		@upload = Cloudinary::Uploader.upload(jpg_path,
 			folder: "railway-archives/2000-2004/#{file_split[0]}-#{unit.operator.downcase}",
 			use_filename: true,
 			unique_filename: false,
 			overwrite: false
 			)
-		puts "Uploaded: #{@upload}"
+		if @upload["existing"]
+			puts "Upload skipped"
+		else
+			puts "Uploaded"
+		end
 		new_encounter = Encounter.new(date: encounters[file_id][0], description: encounters[file_id][1], image_url: @upload["secure_url"], unit_id: unit.id)
 		if new_encounter.save
 			puts "Saved: #{unit.serial_no}, #{new_encounter["date"]}, #{new_encounter["description"]}"
