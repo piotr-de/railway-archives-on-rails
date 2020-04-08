@@ -21,11 +21,8 @@
 				<% unit.encounters.each do |encounter| %>
 					<tr>
 						<td class="tdlocos" style="width: 30%;">
-							<% split_pattern = "/#{unit.name.downcase}-#{unit.operator.downcase}/" %>
-							<% image_path = encounter.image_url.split(split_pattern) %>
-							<% image_thumb = "#{image_path[0]}#{split_pattern}small/#{image_path[-1]}" %>
 							<%= link_to unit_path(encounter) do %>
-								<%= image_tag image_thumb %>
+								<%= cl_image_tag(encounter.image_url, width: 0.25, crop: "scale") %>
 							<% end %>
 						</td>
 						<td class="tdlocos" style="width: 70%;">

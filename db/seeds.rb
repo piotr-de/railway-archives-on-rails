@@ -183,18 +183,19 @@ Unit.all.each do |unit|
 			jpg_path = image_path + "#{file_split[0]}-#{unit.operator.downcase}/#{file_split[1]}.jpg"
 		end
 		puts "Resolving #{jpg_path}"
-		@upload = Cloudinary::Uploader.upload(jpg_path,
-			folder: "railway-archives/2000-2004/#{file_split[0]}-#{unit.operator.downcase}",
+		folder = "railway-archives/2000-2004/#{file_split[0]}-#{unit.operator.downcase}"
+		upload = Cloudinary::Uploader.upload(jpg_path,
+			folder: folder,
 			use_filename: true,
 			unique_filename: false,
 			overwrite: false
 			)
-		if @upload["existing"]
+		if upload["existing"]
 			puts "Upload skipped"
 		else
 			puts "Uploaded"
 		end
-		new_encounter = Encounter.new(date: encounters[file_id][0], description: encounters[file_id][1], image_url: @upload["secure_url"], unit_id: unit.id)
+		new_encounter = Encounter.new(date: encounters[file_id][0], description: encounters[file_id][1], image_url: "#{folder}/#{upload["public_id"]}", unit_id: unit.id)
 		if new_encounter.save
 			puts "Saved: #{unit.serial_no}, #{new_encounter["date"]}, #{new_encounter["description"]}"
 		else
