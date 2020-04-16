@@ -1,7 +1,0 @@
-002#30.06.2002^departing from Olpuch Wdzydze for Ko¶cierzyna.
-002-2#28.01.2003^90434 Gdynia G³ówna-Ko¶cierzyna calling at Gdynia Wielki Kack station.
-002-3#29.01.2003^90434 Gdynia G³ówna-Ko¶cierzyna leaving Gdynia Wielki Kack station.
-002-4#30.01.2003^the last train no. 66329 from Somonino. Kartuzy.
-002-5#30.01.2003^the last train no. 90436 to Gdynia G³ówna via Somonino. Kartuzy.
-002-6#30.01.2003^the last train no. 90437 to Gdynia G³ówna. Somonino.
-002-7#30.01.2003^the last train no. 90437 to Gdynia G³ówna departing from Gdynia Wielki Kack.

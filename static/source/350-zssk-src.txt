@@ -1,5 +1,0 @@
-003#27.07.2004^EC 173 Hamburg-Wien. Letovice zastavka.
-014#27.07.2004^EC 171 Hamburg-Budapest. Letovice.
-017#27.07.2004^IC Brno-Praha hl.n. Letovice zastavka.
-018#27.07.2004^EC 172 Wien-Hamburg. Letovice.
-020#27.07.2004^EC 170 Budapest-Berlin. Letovice.

@@ -1,5 +1,0 @@
-001#23.09.2001^at Warszawa Zachodnia station.
-001-2#23.09.2001^at Warszawa Zachodnia station.
-101#04.05.2002^at Kraków Prokocim depot.
-102#02.05.2002^manoeuvring at Kraków P³aszów station.
-102-2#02.05.2002^with an OHLE maintenance train, at Kraków P³aszów station.
