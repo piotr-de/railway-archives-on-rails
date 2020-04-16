@@ -1,0 +1,13 @@
+254#29.07.2004^+ 618 as 14708 to Ceska Trebova leaving Skalice nad Svitavou.
+511#29.07.2004^Skalice nad Svitavou.
+588#29.07.2004^14711 from Ceska Trebova approaching Skalice nad Svitavou.
+618#29.07.2004^Skalice nad Svitavou.
+618-2#29.07.2004^entering Skalice nad Svitavou.
+618-3#29.07.2004^leaving Skalice nad Svitavou.
+618-4#29.07.2004^approaching Skalice nad Svitavou.
+618-5#29.07.2004^leaving Skalice nad Svitavou.
+618-6#29.07.2004^approaching Skalice nad Svitavou.
+052#17.08.2004^20033 Letohrad-Moravsky Karlov. Dolni Lipka.
+629#17.08.2004^20002 Hanusovice-Letohrad. Dolni Lipka.
+550#21.08.2004^15112 Starkoc-Hronov. Nachod Beloves.
+550-2#22.08.2004^5105 Mezimesti-Doudleby nad Orlici headed by 742-091. Nachod Male Porici.

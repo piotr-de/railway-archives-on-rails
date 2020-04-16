@@ -1,0 +1,6 @@
+23#01.06.2003^approaching its train at Poznañ G³ówny station. 
+23-2#01.06.2003^from Wolsztyn roundhouse at Poznañ G³ówny station.
+23-3#01.06.2003^with a passenger train to Wolsztyn. Poznañ G³ówny.
+34#12.04.2003^near the former car depot in Che³m.
+34-2#12.04.2003^in Che³m.
+111#08.04.2004^4436 to Wolsztyn. Poznañ G³ówny.

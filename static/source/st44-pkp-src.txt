@@ -1,0 +1,88 @@
+<!--2001-->
+313#01.10.2000^Lublin Zemborzyce station.
+313-2#01.10.2000^leaving Krê¿nica Jara.
+<!--2002-->
+992#02.02.2002^at Gdynia Grabówek depot. 
+992-2#02.02.2002^Gdynia Grabówek depot.
+013#03.03.2002^Zamo¶æ Bortatycze depot.
+350#03.03.2002^Zamo¶æ Bortatycze depot.
+1500#03.03.2002^Zamo¶æ Bortatycze depot.
+313-3#01.04.2002^at Stalowa Wola Rozwadów depot.
+358#01.04.2002^Stalowa Wola Rozwadów depot.
+854#01.04.2002^Stalowa Wola Rozwadów depot.
+313-4#07.05.2002^+ SM48-007. Lublin Zemborzyce station.
+747#27.06.2002^Szczecinek roundhouse. 
+815#27.06.2002^Szczecinek roundhouse.
+949#27.06.2002^Szczecinek depot. 
+949-2#03.07.2002^Chojnice depot.
+1102#03.07.2002^Chojnice depot.
+1108#03.07.2002^has just brought to Chojnice the passenger train from Gdynia.
+199#23.08.2002^at Malbork depot.
+206#23.08.2002^at Malbork depot.
+495#23.08.2002^Malbork depot.
+313-5#17.11.2002^Krê¿nica Jara. 
+313-6#17.11.2002^Krê¿nica Jara.
+<!--2003-->
+1103#07.02.2003^in Zaj±czkowo Tczewskie roundhouse.
+1106#07.02.2003^in Zaj±czkowo Tczewskie roundhouse.
+859#01.03.2003^Lublin depot.
+530#02.03.2003^Skar¿ysko Kamienna roundhouse.
+846#02.03.2003^Skar¿ysko Kamienna roundhouse.
+859-2#02.03.2003^Stalowa Wola Rozwadów depot. 
+859-3#02.03.2003^Stalowa Wola Rozwadów.
+859-4#23.03.2003^+ 313 leaving Lublin Zemborzyce.
+859-5#23.03.2003^Lublin Zemborzyce.
+925#22.06.2003^in £azy engine-house.
+926#22.06.2003^in the area of £azy engine-house.
+966#22.06.2003^- the 1000th ST44 class locomotive produced by USSR for Poland, in £azy depot.
+966-2#22.06.2003^- the board informing of the exceptionality of the locomotive.
+1109#29.06.2003^entering Pruszcz Gdañski with tankers from Zajckowo Tczewskie shunting-yard to the Gdañsk Refinery.
+1109-2#29.06.2003^entering Pruszcz Gdañski station.
+895#29.06.2003^passing solo Pruszcz Gdañski station.
+1099#01.07.2003^with tankers, a little while after leaving Gdañsk Olszynka freight station.
+916#03.07.2003^Chojnice depot.
+1102-2#03.07.2003^with the freight train from Zaj±czkowo Tczewskie to Szczecin Port Centralny running through Czersk station.
+1102-3#03.07.2003^Czersk station.
+1102-4#03.07.2003^Czersk station.
+1105#03.07.2003^Chojnice depot.
+1099-2#08.07.2003^passing Gdañsk ¦wiêty Wojciech with tankers.
+1099-3#08.07.2003^passing solo Skowarcz train stop.
+1099-4#08.07.2003^passing Ró¿yny with the tankers to Zaj±czkowo Tczewskie shunting-yard.
+1109-3#08.07.2003^passing Gdañsk Niegowo with ET40-23.
+1109-4#08.07.2003^running through Ró¿yny with tankers to Zaj±czkowo Tczewskie shunting-yard.
+282#12.07.2003^in Inowroc³aw roundhouse.
+405#12.07.2003^Inowroc³aw depot.
+409#12.07.2003^Inowroc³aw depot.
+970#12.07.2003^at Inowroc³aw depot.
+1100#12.07.2003^and ST44-1110 pulled by ET22-317. Inowroc³aw station.
+1111#12.07.2003^at Inowroc³aw depot.
+1113#12.07.2003^passing Gdañsk Niegowo with tankers from the Gdañsk Refinery to Zaj±czkowo Tczewskie.
+2023#12.07.2003^belonging to PKP despite the number above 2000 (generally the locomotives 2xxx are used by the PKP-LHS company along the LHS wide gauge line from Hrubieszów to S³awków) at Inowroc³aw depot.
+935#15.07.2003^at Gdynia Grabówek depot.
+1095#18.07.2003^at Krzy¿ depot.
+910#31.07.2003^with tankers from the Gdañsk Refinery to Zaj±czkowo Tczewskie passing Gdañsk ¦wiêty Wojciech.
+1060#31.07.2003^in front of the row of 13 other ST44 locos. Szczecinek station.
+1102-5#04.08.2003^leaving Tczew with the passenger train No. 7729 to Chojnice. Nowadays, such situations when Bhp class cars are pulled by ST44 locos don't take place anymore. Unless there is lack of other class locomotives - such as here, where the ST44 is running instead of an SU45 class locomotive - also from Chojnice depot.
+895-2#05.08.2003^passing Gdañsk Niegowo with tankers.
+1113-2#06.08.2003^between Ró¿yny and Cieplewo.
+1074#31.08.2003^Warszawa Odolany depot.
+1076#31.08.2003^Warszawa Odolany depot.
+165#30.08.2003^at Zduñska Wola Karsznice depot.
+096#31.08.2003^at Warszawa Odolany depot.
+172#21.12.2003^Tarnowskie Góry station.
+172-2#21.12.2003^Tarnowskie Góry station.
+547#21.12.2003^Tarnowskie Góry depot.
+927#21.12.2003^Tarnowskie Góry station.
+1030#21.12.2003^as a pushing locomotive. Tarnowskie Góry station.
+1030-2#21.12.2003^Tarnowskie Góry station.
+1045#21.12.2003^Tarnowskie Góry depot.
+910-2#23.12.2003^Pruszcz Gdañski.
+1106-2#23.12.2003^Pruszcz Gdañski.
+1106-3#23.12.2003^Pruszcz Gdañski.
+1099-5#27.12.2003^Gdañsk Mot³awa Most.
+1105-2#27.12.2003^between Swaro¿yn and Rokitki.
+1105-3#27.12.2003^between Swaro¿yn and Rokitki.
+<!--2004-->
+014#22.02.2004^at Inowroc³aw depot.
+866#10.06.2004^Ma³aszewicze depot.
+901#10.06.2004^Ma³aszewicze depot.

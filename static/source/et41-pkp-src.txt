@@ -1,0 +1,144 @@
+001#23.09.2001^during the electric locomotive show at Warszawa Zachodnia station.
+002#22.06.2003^at £azy electric depot.
+004#24.07.2001^crossing the Bystrzyca river bridge in Lublin.
+004-2#10.09.2002^entering the freight section of Lublin G³ówny station with coal wagons from Bogdanka mine. It was the first ET41 loco from Skar¿ysko Kamienna depot with the green front. 
+004-3#18.10.2003^passing Stasin with a freight.
+004-4#23.11.2003^Stasin.
+004-5#15.05.2004^entering ¦widnik on its way to Jaszczów.
+005#20.06.2003^passing Mas³oñskie Natalin heading for Czêstochowa.
+005-2#20.06.2003^passing Mas³oñskie Natalin.
+005-3#21.06.2003^with a freight train to the north of Poland entering Myszków.
+006#22.06.2003^manoeuvring at £azy depot.
+008#11.11.2003^Gocza³kowice Zdrój.
+008-2#12.05.2004^leaving Olkusz heading for Silesia.
+016#08.11.2003^Zabrzeg train halt.
+016-2#11.11.2003^Pszczyna.
+017#29.03.2002^Motycz Le¶ny train halt.
+017-2#22.02.2003^entering Lublin G³ówny.
+017-3#01.03.2003^Lublin G³ówny.
+017-4#11.05.2004^Rabsztyn.
+018#22.06.2003^with ET22-871, manoeuvring at £azy station.
+022#28.08.2004^Mas³oñskie Natalin.
+025#08.03.2003^Motycz Le¶ny train halt.
+025-2#06.09.2003^passing Lublin G³ówny station with a freight.
+025-3#11.05.2004^a freight train towards Bukowno. Olkusz.
+026#22.02.2003^passing Lublin Pó³nocny station with a coal freight. It's quite an interesting situation a most freights running through Lublin use the Lublin-Lublin Tatary-¦widnik freight line. This train is going by Lublin Tatary freight station using the main Dorohusk-Warsaw line.
+026-2#04.08.2003^after the repair in the ZNTK Gdañsk passing Ró¿yny during the test between Gdañsk and Smêtowo.
+026-3#15.05.2004^Lublin Tatary.
+029#12.08.2001^entering Lublin with a short freight train.
+029-2#06.09.2002^passing Stasin with a freight train from Bogdanka.
+029-3#18.10.2003^passing Stasin with coal wagons.
+031#11.05.2004^Rabsztyn. 
+034#01.08.2002^Lublin Tatry freight station.
+037#29.12.2001^entering Lublin.  
+037-2#16.02.2002^entering Lublin.
+037-3#22.03.2003^running through Motycz station.
+038#22.02.2003^Lublin G³ówny station.
+040#22.06.2003^at £azy depot.
+045#22.06.2003^in the depot of £azy engine-house.
+047#15.03.2003^leaving Lublin.
+048#03.05.2003^Opole depot.
+048-2#03.05.2003^Opole depot.
+050#11.11.2003^Gocza³kowice Zdrój.
+052#08.11.2003^entering Zabrzeg Czarnolesie shunting yard. Zabrzeg train halt.
+053#01.08.2001^Lublin G³ówny.
+053-2#12.05.2004^Tunel station.
+059#26.04.2003^Stalowa Wola Rozwadów.
+059-2#26.04.2003^Lubliniec.
+059-3#04.09.2004^Stasin.
+065#12.08.2001^a freight train entering Lublin.
+065-2#02.03.2003^Stalowa Wola Rozwadów depot.
+068#06.09.2003^passing Stasin with the freight train to Bogdanka.
+068-2#13.09.2003^leaving Stasin on its route to Kozienice. 
+069#03.10.2001^entering Lublin G³ówny.
+069-2#22.12.2001^Lublin G³ówny.
+069-3#16.05.2004^between Motycz and Stasin.
+071#10.11.2003^Czechowice Dziedzice depot.
+075#27.01.2002^Dêblin freight station.
+075-2#12.09.2002^running through Motycz station.
+075-3#11.06.2004^leaving Lublin.
+087#08.06.2002^Lublin depot.
+087-2#08.09.2002^Go³±b.
+087-3#06.03.2003^leaving Lublin.
+087-4#16.05.2004^between Motycz and Stasin.
+087-5#11.06.2004^leaving Lublin.
+089#27.01.2002^Dêblin depot.
+089-2#17.03.2002^passing Motycz station.
+089-3#12.09.2002^Motycz.
+093#31.08.2004^Zawiercie.
+094#31.10.2002^entering ¯ywiec heading southwards.
+094-2#01.11.2002^entering ¯ywiec heading back from the South.
+096#07.10.2001^passing Stasin Polny train stop with a freight.
+096-2#04.10.2003^Stasin.
+101#13.08.2003^from Czechowice Dziedzice depot at the depot in Ostrów Wielkopolski.
+103#04.05.2002^at Kraków Prokocim depot.
+109#03.05.2003^one of two sections inside of Opole depot.
+109-2#03.05.2003^the other section outside of the depot in Opole.
+109-3#11.11.2003^Gocza³kowice Zdrój.
+110#10.11.2003^Czechowice Dziedzice depot.
+113#01.12.2001^leaving Lublin G³ówny.
+113-2#14.06.2002^running through Lublin G³ówny.
+113-3#15.04.2003^leaving Lublin.
+113-4#17.04.2003^running through Motycz station.
+115#06.03.2003^entering Lublin.
+115-2#15.04.2003^leaving Lublin.
+117#22.06.2003^in £azy depot.
+121#10.11.2003^Czechowice Dziedzice depot.
+124#21.06.2003^Mas³oñskie Natalin.
+127#08.09.2001^shortly after leaving Po³aniec power plant.
+127-2#21.06.2003^with a freight from £azy direction passing ¯arki Letnisko.
+129#08.08.2004^running through Katowice station.
+130#03.08.2001^entering Lublin G³ówny.
+130-2#23.02.2002^Lublin Tatary.
+130-3#17.04.2003^running through Motycz station.
+131#30.03.2003^Stasin.
+131-2#20.09.2003^passing Minkowice with a freight.
+132#22.12.2002^Lublin Rury.
+133#01.12.2002^running through Motycz station.
+133-2#02.03.2003^Skar¿ysko Kamienna.
+134#10.08.2001^Lublin G³ówny - the freight section.
+134-2#14.09.2002^Jaszczów.
+135#19.01.2002^Lublin depot.
+135-2#22.09.2002^crossing Wis³a bridge in Dêblin.
+135-3#19.03.2004^entering Lublin with a westward freight.
+137#31.10.2002^leaving ¯ywiec with a northtward freight.
+137-2#01.11.2002^leaving ¯ywiec with a southtward freight.
+138#22.06.2003^Mas³oñskie Natalin.
+146#27.07.2003^at Czerwieñsk depot.
+149#03.05.2003^at Opole depot.
+157#29.03.2002^running through Motycz station.
+157-2#08.09.2002^between Go³±b and Pu³awy Azoty.
+157-3#16.11.2002^leaving Na³êczów with a westward train.
+157-4#30.03.2003^leaving Motycz station heading for Lublin.
+157-5#25.06.2004^leaving Lublin.
+160#11.05.2004^Rabsztyn.
+161#04.05.2003^Tarnowskie Góry.
+163#20.09.2003^passing Staro¶cice at the very end of its way to Jaszczów.
+165#22.06.2003^with a very short freight passing Mas³oñskie Natalin. Take note that the first section of the locomotive differs from the second one.
+165-2#11.11.2003^Gocza³kowice Zdrój.
+166#21.12.2003^Tarnowskie Góry.
+168#30.10.2002^¯ywiec.
+168-2#01.11.2002^running through ¯ywiec station.
+169#10.11.2003^Czechowice Dziedzice depot.
+172#19.09.2002^the freight section of Lublin G³ówny station.
+172-2#08.05.2004^Rabsztyn.
+172-3#04.09.2004^entering Lublin with an eastward train.
+174#23.02.2002^with empty Eaos class cars, near ET41-130 with identical ones, at Lublin Tatary freight station.
+174-2#29.09.2002^entering Pilawa from Miñsk Mazowiecki.
+174-3#11.01.2003^leaving Stasin on its way to Jaszczów.
+176#10.11.2003^- one of two sections being turned around on the turn-table at Czechowice Dziedzice roundhouse.
+177#03.04.2004^on the CMK (Central Trunk Line) near Kostkowice between Psary and Góra W³odowska.
+177-2#03.04.2004^Kostkowice between Psary and Góra W³odowska.
+179#23.01.2002^with empty Eaos class coal cars from Lublin Wrotków heat and power plant. Lublin Rury.
+179-2#11.04.2002^with empty waggons passing Motycz station.
+179-3#09.11.2002^passing Lublin depot.
+179-4#12.05.2004^Olkusz.
+180#27.07.2003^at Czerwieñsk depot.
+183#27.07.2003^in the area of Czerwieñsk depot.
+188#10.11.2003^one of two sections outside of Czechowice Dziedzice depot.
+188-2#10.11.2003^the other section inside of Czechowice Dziedzice depot.
+188-3#27.08.2004^Mas³oñskie Natalin.
+190#25.07.2003^with Czech Rils class waggons from Szczecin passing Bytnica between Rzepin and Czerwieñsk.
+191#04.05.2002^at Kraków Prokocim depot.
+191-2#08.11.2003^entering Zabrzeg Czarnolesie shunting yard.
+195#27.07.2003^with full coal cars and ET22-191 as a pushing locomotive passing Bytnica station between Rzepin and Czerwieñsk.

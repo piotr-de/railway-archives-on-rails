@@ -1,0 +1,19 @@
+<tr>
+<td class="tdlocos" style="width: 100%;">
+<p>&nbsp;</p>
+<table class="links" align="center" cellpadding="1" cellspacing="1">
+<tr>
+<td class="tdtabor2">
+SM42
+</td>
+</tr>
+<tr>
+<td class="tdmainlocos">
+<a href="?id=sm42-pkp-001-500">001-500</a><br>
+<a href="?id=sm42-pkp-501-1000">501-1000</a><br>
+<a href="?id=sm42-pkp-1001-2000">1001-1156 &amp; 2000</a><br>
+</td>
+</tr>
+</table>
+</td>
+</tr>

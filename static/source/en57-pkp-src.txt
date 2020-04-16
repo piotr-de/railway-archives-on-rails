@@ -1,0 +1,40 @@
+001#29.03.2003^the first unit of such a numerous PKP class departing from Dêbica as the passenger train No. 1032 from Rzeszów to Kraków G³ówny.
+001-2#21.04.2003^now seen from the rb part side, at Jas³o depot.
+113#11.05.2004^22216 Katowice-Wolbrom leaving Olkusz.
+736#30.12.2002^as the passenger train No. 10028 from Gdynia to Tczew departing from Gdañsk Oliwa station.
+739#30.07.2001^leaving Lublin as a passenger train to Dêblin.
+749#08.07.2003^as a passenger train from Gdañsk to Tczew departing from Skowarcz train halt.
+910#28.07.2001^heading for Lublin G³ówny. Lublin Rury.
+924#05.08.2001^entering Lublin as a passenger train from Dêblin.
+940#11.05.2004^2433 Sêdziszów-Katowice. Rabsztyn between Jaroszowiec Olkuski and Olkusz.
+981#10.05.2004^+ 1408. 428 Katowice-Sêdziszów departing from Olkusz station.
+1071#08.05.2004^+ 1210 as a passenger train Sêdziszów-Katowice between Rabsztyn and Olkusz.
+1080#19.06.2003^with EN57-1074, as fast passenger train 'Giewont' from Czêstochowa to Zakopane, passing Mas³oñskie Natalin.
+1087#21.04.2003^before departing from Jas³o as a passenger train to Gorlice.
+1096#31.01.2003^maneuvering at Gdynia Cisowa EMU depot.
+1172#19.10.2003^as the passenger train No. 632 to Tarnów, at Krynica station.
+1272#12.05.2004^+ 1292 as the fast passenger train 43127 'Giewont' Czêstochowa-Kraków G³ówny running through Tunel station.
+1291#02.11.2003^leaving Szczecin G³ówny.
+1320#08.03.2003^Motycz Le¶ny train halt.
+1333#12.04.2003^at Lublin depot.
+1337#27.06.2003^as the fast passenger train No. 58511 'Torunianin' from Toruñ to Ustka, before departing from Lêbork station.
+1348#08.05.2004^+ 1720 as a passenger train Katowice-Sêdzizów between Olkusz and Rabsztyn.
+1373#16.02.2003^entering from Dêblin direction.
+1373-2#27.03.2003^at Lublin G³ówny station.
+1379#22.11.2003^at Lublin Tatary freight station, during the Railwayman's Day.
+1379-2#22.11.2003^maneuvering at Lublin Tatary station.
+1379-3#22.11.2003^at Lublin Tatary station.
+1400#04.05.2003^as a passenger train from Kluczbork to Katowice, leaving Tarnowskie Góry station.
+1401#20.06.2004^in the area of Remtrak Idzikowice EMU repair compound.
+1408#11.05.2004^+ 891 as 4236 Katowice-Sêdziszów. Rabsztyn between Olkusz and Jaroszowiec Olkuski.
+1442#13.06.2003^maneuvering at £uków station, after finishing its journey from Dêblin.
+1458#26.04.2003^with EN57-919 (both from ZPR £ód¼), at Stalowa Wola Rozwadów station.
+1501#23.02.2003^as the passenger train No. 129 from Dêblin to Che³m, departing from Motycz station.
+1502#05.07.2004^as a passenger train from Poznañ Franowo shunting-yard to Poznañ G³ówny. Between Pokrzywno PK and Poznañ Staro³êka.
+1511#18.10.2003^leaving Lublin with the regional train No. 21126 to Terespol. This is one of the modernized EN57 units.
+1531#31.01.2003^on one of the tracks at Gdynia Cisowa EMU depot.
+1709#06.09.2003^passing Motycz as the passenger train from Dêblin to Lublin.
+1711#25.10.2003^entering Stasin as a passenger train from Dêblin to Che³m.
+1794#31.12.2002^with EN57-1793, as a passenger train from Gdynia Chylonia to Bydgoszcz calling at Gdañsk Oliwa station.
+1819#27.12.2003^as a passenger train from Gdynia to Bydgoszcz, between Subkowy and Pelplin.
+1953#08.07.2003^- the last EN57 unit produced, furthermore in a painting pattern completely new in the range above 1900, departing from Mierzêcin Strzelecki as the passenger train No. 129 from Krzy¿ to Szczecin.
