@@ -10,7 +10,7 @@
 114-2#02.03.2003^Stalowa Wola Rozwadów.
 125#27.01.2002^Dêblin.
 128#31.08.2002^Lublin G³ówny.
-130#18.09.2004^a freight train towards Dêblin. Stasin Polny.
+<!--130#18.09.2004^a freight train towards Dêblin. Stasin Polny.-->
 133#04.05.2002^Kraków Prokocim depot.
 140#29.03.2003^Dêbica depot.
 144#24.09.2000^leaving Lublin.
