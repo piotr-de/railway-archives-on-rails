@@ -11,6 +11,7 @@ puts "Instantiating classes"
 puts "Environment: #{Rails.env}"
 
 new_classes = [
+
 	{ name: "201E", propulsion: "Electric", category: "Freight Locomotive", country: "Poland", operator: "CTL" },
 	{ name: "3E", propulsion: "Electric", category: "Freight Locomotive", country: "Poland", operator: "CTL" },
 	{ name: "3E", propulsion: "Electric", category: "Freight Locomotive", country: "Poland", operator: "KP_Szczakowa" },
@@ -117,8 +118,46 @@ new_classes = [
 	{ name: "350", propulsion: "Electric", category: "Locomotive", country: "Slovakia", operator: "ZSSK" },
 	{ name: "362", propulsion: "Electric", category: "Locomotive", country: "Slovakia", operator: "ZSSK" },
 	{ name: "363", propulsion: "Electric", category: "Locomotive", country: "Czech Republic", operator: "CD" },
+	{ name: "481", propulsion: "Electric", category: "Motor Unit", country: "Germany", operator: "DB" },
+	{ name: "560", propulsion: "Electric", category: "Motor Unit", country: "Czech Republic", operator: "CD" },	
+	{ name: "624", propulsion: "Diesel", category: "Motor Unit", country: "Germany", operator: "DB" },
+	{ name: "708", propulsion: "Diesel", category: "Locomotive", country: "Czech Republic", operator: "CD" },
+	{ name: "714", propulsion: "Diesel", category: "Locomotive", country: "Czech Republic", operator: "CD" },
+	{ name: "740", propulsion: "Diesel", category: "Locomotive", country: "Czech Republic", operator: "CD" },
+	{ name: "742", propulsion: "Diesel", category: "Locomotive", country: "Czech Republic", operator: "CD" },
+	{ name: "749", propulsion: "Diesel", category: "Locomotive", country: "Czech Republic", operator: "CD" },
+	{ name: "754", propulsion: "Diesel", category: "Locomotive", country: "Czech Republic", operator: "CD" },
+	{ name: "810", propulsion: "Diesel", category: "Motor Unit", country: "Czech Republic", operator: "CD" },
+	{ name: "928", propulsion: "Diesel", category: "Motor Unit", country: "Germany", operator: "DB" },
 	{ name: "ASF", propulsion: "Auxiliary", category: "Rail Vehicle", country: "Poland", operator: "PKP" },
+	{ name: "Bnrdzf", propulsion: "Electric", category: "Motor Unit", country: "Germany", operator: "DB" },
 	{ name: "DGS", propulsion: "Auxiliary", category: "Rail Vehicle", country: "Poland", operator: "PKP" },
+	{ name: "ED72", propulsion: "Electric", category: "Motor Unit", country: "Poland", operator: "PKP" },
+	{ name: "ED73", propulsion: "Electric", category: "Motor Unit", country: "Poland", operator: "PKP" },
+	{ name: "EDK300", propulsion: "Auxiliary", category: "Rail Vehicle", country: "Poland", operator: "PKP" },
+	{ name: "EDK80", propulsion: "Auxiliary", category: "Rail Vehicle", country: "Poland", operator: "PKP" },
+	{ name: "ICE2", propulsion: "Electric", category: "Motor Unit", country: "Germany", operator: "DB" },
+	{ name: "Lint", propulsion: "Diesel", category: "Motor Unit", country: "Germany", operator: "NOB" },
+	{ name: "M40", propulsion: "Diesel", category: "Locomotive", country: "Hungary", operator: "MAV" },
+	{ name: "M47", propulsion: "Diesel", category: "Locomotive", country: "Hungary", operator: "MAV" },
+	{ name: "M62", propulsion: "Diesel", category: "Locomotive", country: "Hungary", operator: "MAV" },
+	{ name: "MUV69", propulsion: "Auxiliary", category: "Rail Vehicle", country: "Czech Republic", operator: "CD" },
+	{ name: "MVTV2", propulsion: "Auxiliary", category: "Rail Vehicle", country: "Czech Republic", operator: "CD" },
+	{ name: "PRS07", propulsion: "Auxiliary", category: "Rail Vehicle", country: "Poland", operator: "PKP" },
+	{ name: "PRSM04", propulsion: "Auxiliary", category: "Rail Vehicle", country: "Poland", operator: "PKP" },
+	{ name: "PS00", propulsion: "Auxiliary", category: "Rail Vehicle", country: "Poland", operator: "PKP" },
+	{ name: "PSE", propulsion: "Auxiliary", category: "Rail Vehicle", country: "Poland", operator: "PKP" },
+	{ name: "PSEA", propulsion: "Auxiliary", category: "Rail Vehicle", country: "Poland", operator: "PKP" },
+	{ name: "PTMD68", propulsion: "Auxiliary", category: "Rail Vehicle", country: "Poland", operator: "PKP" },
+	{ name: "PWM05P", propulsion: "Auxiliary", category: "Rail Vehicle", country: "Poland", operator: "PKP" },
+	{ name: "SPDM", propulsion: "Auxiliary", category: "Rail Vehicle", country: "Poland", operator: "PKP" },
+	{ name: "SVP", propulsion: "Auxiliary", category: "Rail Vehicle", country: "Poland", operator: "PKP" },
+	{ name: "V43", propulsion: "Electric", category: "Locomotive", country: "Hungary", operator: "MAV" },
+	{ name: "V43", propulsion: "Electric", category: "Locomotive", country: "Hungary", operator: "GySEV" },
+	{ name: "WL10", propulsion: "Electric", category: "Locomotive", country: "Ukraine", operator: "UZ" },
+	{ name: "WM15A", propulsion: "Auxiliary", category: "Rail Vehicle", country: "Poland", operator: "PKP" },
+	{ name: "ZTU300", propulsion: "Auxiliary", category: "Rail Vehicle", country: "Poland", operator: "PKP" }
+
 ]
 
 puts "Total: #{new_classes.count}"
