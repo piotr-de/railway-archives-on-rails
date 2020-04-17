@@ -164,8 +164,9 @@ new_classes.each do |new_class|
 	puts "Reading #{filepath}"
 	separator = new_class[:country] == "Poland" ? "-" : " "
 	IO.foreach(filepath, mode: "r:iso-8859-1") do |line|
-		next if line.include?("<!-") || line.split("#").split("-").length > 1
-		new_class[:serial_no] = "#{new_class[:name]}#{separator}#{line.split("#")[0]}"
+		serial_no = line.split("#")[0]
+		next if line.include?("<!-") || serial_no.split("-").length > 1
+		new_class[:serial_no] = "#{new_class[:name]}#{separator}#{serial_no}"
 		new_unit = Unit.new(new_class)
 		if new_unit.save
 			puts "Unit #{new_unit.serial_no} created"
