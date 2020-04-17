@@ -18,7 +18,7 @@
 1102#03.07.2002^Chojnice depot.
 1108#03.07.2002^has just brought to Chojnice the passenger train from Gdynia.
 199#23.08.2002^at Malbork depot.
-206#23.08.2002^at Malbork depot.
+<!--206#23.08.2002^at Malbork depot.-->
 495#23.08.2002^Malbork depot.
 313-5#17.11.2002^Krê¿nica Jara. 
 313-6#17.11.2002^Krê¿nica Jara.
