@@ -7,7 +7,7 @@ class UserMailer < ApplicationMailer
 			from: @user.email,
 			to: ENV["FORM_MAILTO"],
 			subject: "Message from railway.eu.org",
-			message: params[:message]
+			text: params[:message]
 		}
 		mailgun_client.send_message ENV["MAILGUN_DOMAIN"], message_params
 		# mail(to: ENV["FORM_MAILTO"], subject: "Message from railway.eu.org")
