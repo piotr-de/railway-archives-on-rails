@@ -10,15 +10,15 @@
 	<td class="tdmain" style="background-color: #ffff80; padding: 20px 0; text-align: center;">
 		<%= form_tag send_form_path, method: :post do %>
 			<p>
-				<%= text_field_tag :name, "", placeholder: "Your name" %>
+				<%= text_field_tag :name, "", placeholder: "Your name", style: "width: 200px" %>
 			</p>
 			<p>
-				<%= text_field_tag :email, "", placeholder: "Your email" %>
+				<%= text_field_tag :email, "", placeholder: "Your email", style: "width: 200px" %>
 			</p>
 			<p>
-				<%= text_field_tag :message, "", placeholder: "Your message" %>
+				<%= text_area_tag :message, "", placeholder: "Your message", size: "28x8" %>
 			</p>
-		<%= submit_tag "Send" %>
-<% end %>
+			<%= submit_tag "Send" %>
+		<% end %>
 	</td>
 </tr>
