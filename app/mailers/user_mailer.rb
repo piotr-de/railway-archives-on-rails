@@ -4,7 +4,7 @@ class UserMailer < ApplicationMailer
 		@message = params[:message]
 		mailgun_client = Mailgun::Client.new ENV["MAILGUN_API_KEY"]
 		message_params = {
-			from: @user.email,
+			from: "#{@user.name} <#{@user.email}>",
 			to: ENV["FORM_MAILTO"],
 			subject: "Message from railway.eu.org",
 			text: @message
